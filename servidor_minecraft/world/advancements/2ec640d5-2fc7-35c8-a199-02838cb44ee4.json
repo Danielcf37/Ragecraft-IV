@@ -59,27 +59,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall": {
+  "minecraft:recipes/decorations/blue_bed": {
     "criteria": {
-      "has_stone_bricks": "2024-11-28 03:52:19 +0000"
+      "has_blue_wool": "2024-11-28 02:48:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_carpet": {
+  "minecraft:recipes/decorations/blue_carpet": {
     "criteria": {
-      "has_black_wool": "2024-11-28 03:12:08 +0000"
-    },
-    "done": true
-  },
-  "general:0_unique_explain": {
-    "criteria": {
-      "requirement": "2024-11-28 04:14:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2024-11-28 03:12:08 +0000"
+      "has_blue_wool": "2024-11-28 02:48:02 +0000"
     },
     "done": true
   },
@@ -89,9 +77,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_bed": {
+  "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
-      "has_blue_wool": "2024-11-28 02:48:02 +0000"
+      "has_black_wool": "2024-11-28 03:12:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-11-28 03:12:08 +0000"
     },
     "done": true
   },
@@ -101,9 +95,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_carpet": {
+  "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
-      "has_blue_wool": "2024-11-28 02:48:02 +0000"
+      "has_stone_bricks": "2024-11-28 03:52:19 +0000"
+    },
+    "done": true
+  },
+  "general:0_unique_explain": {
+    "criteria": {
+      "requirement": "2024-11-28 04:14:07 +0000"
+    },
+    "done": true
+  },
+  "challenges:arcanist/spellblade": {
+    "criteria": {
+      "requirement": "2024-12-08 03:20:12 +0000"
     },
     "done": true
   },
