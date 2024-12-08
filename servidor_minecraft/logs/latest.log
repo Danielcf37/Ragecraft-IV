@@ -120,3 +120,32 @@
 [10:07:20] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
 [10:07:20] [Server thread/ERROR]: Display entityNot a string
 [10:07:20] [Server thread/ERROR]: Display entityNot a string
+[10:08:37] [Server thread/ERROR]: Display entityNot a string
+[10:08:37] [Server thread/ERROR]: Display entityNot a string
+[10:09:33] [Server thread/ERROR]: Display entityNot a string
+[10:09:33] [Server thread/ERROR]: Display entityNot a string
+[10:09:41] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[10:09:42] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[10:09:42] [Server thread/ERROR]: Display entityNot a string
+[10:09:42] [Server thread/ERROR]: Display entityNot a string
+[10:09:45] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[10:12:06] [Server thread/INFO]: Named entity bwv['Jungle Golem'/6835, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=88.25, y=72.00, z=-161.91] died: Jungle Golem was slain by TioSkrollex using [Magmablade]
+[10:12:11] [Server thread/INFO]: Named entity bwv['Jungle Rager'/6836, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=85.82, y=72.00, z=-161.01] died: Jungle Rager was slain by TioSkrollex using [Magmablade]
+[10:12:52] [Server thread/INFO]: Named entity bwv['Jungle Golem'/6851, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=108.75, y=70.00, z=-154.52] died: Jungle Golem was slain by Danielcf37 using [Venom Fang]
+[10:12:55] [Server thread/INFO]: Named entity bwv['Jungle Rager'/6852, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=107.51, y=70.00, z=-153.51] died: Jungle Rager was slain by Danielcf37 using [Venom Fang]
+[10:14:49] [Server thread/INFO]: Named entity bwo['Ancient Spirit'/7335, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=124.11, y=64.30, z=-117.16] died: Ancient Spirit withered away
+[10:14:54] [Server thread/INFO]: Named entity bwo['Ancient Spirit'/7334, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=126.22, y=64.30, z=-115.46] died: Ancient Spirit withered away
+[10:14:58] [Server thread/INFO]: Named entity bwo['Ancient Spirit'/7392, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=124.51, y=65.00, z=-114.70] died: Ancient Spirit was slain by Danielcf37 using [Bonebreaker]
+[10:15:01] [Server thread/INFO]: Named entity bwo['Ancient Spirit'/7391, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=124.44, y=64.30, z=-117.90] died: Ancient Spirit was burnt to a crisp whilst fighting TioSkrollex
+[10:15:02] [Server thread/INFO]: Named entity bwt['☆ Runekeeper ☆'/7325, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=124.19, y=64.30, z=-117.35] died: ☆ Runekeeper ☆ was slain by Danielcf37 using [Bonebreaker]
+[10:17:26] [Server thread/INFO]: Named entity bwv['Jungle Golem'/7634, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=150.52, y=74.00, z=-163.76] died: Jungle Golem was burnt to a crisp whilst fighting TioSkrollex
+[10:17:32] [Server thread/INFO]: Named entity bwv['Jungle Rager'/7635, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=150.47, y=72.00, z=-170.06] died: Jungle Rager was slain by TioSkrollex using [Deathchill]
+[10:18:35] [Server thread/INFO]: Named entity bwv['Jungle Golem'/7977, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=144.46, y=81.00, z=-143.86] died: Jungle Golem was slain by Danielcf37 using [Venom Fang]
+[10:18:39] [Server thread/INFO]: Named entity bwv['Jungle Rager'/7978, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=145.53, y=81.00, z=-141.71] died: Jungle Rager was slain by Danielcf37 using [Venom Fang]
+[10:19:18] [Server thread/INFO]: Named entity bwv['Jungle Golem'/7794, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=127.68, y=70.00, z=-144.57] died: Jungle Golem was slain by TioSkrollex using [Magmablade]
+[10:19:21] [Server thread/INFO]: Named entity bwv['Jungle Rager'/7795, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=127.12, y=70.00, z=-144.72] died: Jungle Rager was burnt to a crisp whilst fighting TioSkrollex
+[10:19:44] [Server thread/INFO]: Named entity bwv['Jungle Golem'/7792, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=149.52, y=72.00, z=-175.20] died: Jungle Golem was slain by Danielcf37 using [Venom Fang]
+[10:19:45] [Server thread/INFO]: Named entity bwv['Jungle Rager'/7793, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=149.52, y=71.00, z=-175.35] died: Jungle Rager was slain by Danielcf37 using [Venom Fang]
+[10:20:51] [Server thread/INFO]: Danielcf37 was blown up by Creeper
+[10:27:52] [Server thread/INFO]: Danielcf37 was shot by Skeleton
+[10:28:05] [Server thread/INFO]: TioSkrollex was shot by Skeleton
