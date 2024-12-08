@@ -99,3 +99,24 @@
 [09:57:04] [Server thread/INFO]: Danielcf37 was slain by Silverfish
 [09:57:15] [Server thread/INFO]: Named entity bwv['Jungle Golem'/3833, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=76.56, y=72.42, z=-192.65] died: death.attack.magic.item
 [09:57:48] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=72, y=76, z=-162} gu{x=72, y=76, z=-161}
+[10:04:09] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=116, y=75, z=-214} gu{x=115, y=74, z=-213}
+[10:04:13] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/5810, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-53.50, y=171.03, z=283.50]
+[10:06:31] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[10:06:34] [Server thread/ERROR]: Display entityNot a string
+[10:06:34] [Server thread/ERROR]: Display entityNot a string
+[10:06:35] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[10:06:40] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[10:06:55] [Server thread/ERROR]: Display entityNot a string
+[10:06:55] [Server thread/ERROR]: Display entityNot a string
+[10:06:56] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[10:07:05] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[10:07:09] [Server thread/ERROR]: Display entityNot a string
+[10:07:09] [Server thread/ERROR]: Display entityNot a string
+[10:07:13] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[10:07:15] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[10:07:18] [Server thread/ERROR]: Display entityNot a string
+[10:07:18] [Server thread/ERROR]: Display entityNot a string
+[10:07:19] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[10:07:20] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[10:07:20] [Server thread/ERROR]: Display entityNot a string
+[10:07:20] [Server thread/ERROR]: Display entityNot a string
