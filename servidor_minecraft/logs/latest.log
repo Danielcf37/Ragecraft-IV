@@ -71,3 +71,31 @@
 [09:39:58] [Server thread/INFO]: Named entity bwv['Jungle Rager'/1785, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=62.44, y=65.00, z=-222.69] died: Jungle Rager was slain by Danielcf37 using [Venom Fang]
 [09:40:43] [Server thread/INFO]: Named entity bwv['Jungle Rager'/1787, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=103.92, y=75.00, z=-194.02] died: Jungle Rager withered away
 [09:41:06] [Server thread/INFO]: Named entity bwv['Jungle Rager'/1769, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=73.80, y=67.00, z=-215.20] died: Jungle Rager was slain by TioSkrollex using [Magmablade]
+[09:48:33] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/3239, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-53.50, y=171.03, z=283.50]
+[09:49:23] [Server thread/INFO]: Named entity bwv['Jungle Rager'/3426, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=81.42, y=59.55, z=-175.25] died: Jungle Rager hit the ground too hard
+[09:49:24] [Server thread/INFO]: Named entity bwv['Jungle Rager'/3369, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=91.50, y=94.46, z=-171.76] died: Jungle Rager suffocated in a wall
+[09:49:51] [Server thread/INFO]: Named entity bwv['Jungle Rager'/3371, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=85.18, y=84.69, z=-172.83] died: Jungle Rager hit the ground too hard
+[09:49:51] [Server thread/INFO]: Named entity bwv['Jungle Golem'/3370, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=85.19, y=83.00, z=-172.76] died: Jungle Golem was doomed to fall by Danielcf37 using [Skittering Longsword]
+[09:50:53] [Server thread/INFO]: Named entity bwv['Jungle Rager'/3642, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=98.86, y=78.63, z=-188.08] died: Jungle Rager hit the ground too hard
+[09:51:01] [Server thread/INFO]: Named entity bwv['Jungle Rager'/3513, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=100.35, y=94.46, z=-182.49] died: Jungle Rager was burnt to a crisp whilst fighting Danielcf37
+[09:51:05] [Server thread/INFO]: Named entity bwv['Jungle Golem'/3641, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=76.93, y=73.00, z=-187.50] died: Jungle Golem was slain by TioSkrollex using [Magmablade]
+[09:51:10] [Server thread/INFO]: Named entity bwv['Jungle Rager'/3644, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=96.51, y=93.46, z=-184.19] died: death.attack.magic.item
+[09:51:10] [Server thread/INFO]: Named entity bwv['Jungle Rager'/3509, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=96.57, y=93.46, z=-184.28] died: death.attack.magic.item
+[09:51:10] [Server thread/INFO]: Named entity bwv['Jungle Rager'/3511, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=96.15, y=93.46, z=-184.34] died: death.attack.magic.item
+[09:51:13] [Server thread/INFO]: Named entity bwv['Jungle Golem'/3643, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=96.08, y=92.00, z=-184.27] died: Jungle Golem was burnt to a crisp whilst fighting Danielcf37
+[09:51:14] [Server thread/INFO]: Named entity bwv['Jungle Golem'/3368, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=96.81, y=92.00, z=-183.78] died: Jungle Golem was burnt to a crisp whilst fighting Danielcf37
+[09:51:16] [Server thread/INFO]: Named entity bwv['Jungle Golem'/3512, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=96.85, y=92.00, z=-184.34] died: Jungle Golem was shot by Danielcf37 using [Ornate Bow of Healing]
+[09:51:17] [Server thread/INFO]: Named entity bwv['Jungle Golem'/3508, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=96.62, y=92.00, z=-183.94] died: Jungle Golem was shot by Danielcf37 using [Ornate Bow of Healing]
+[09:51:19] [Server thread/INFO]: Named entity bwv['Jungle Golem'/3510, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=96.09, y=92.00, z=-184.60] died: Jungle Golem was shot by Danielcf37 using [Ornate Bow of Healing]
+[09:52:53] [Server thread/INFO]: Named entity bwv['Jungle Rager'/3978, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=83.28, y=59.91, z=-176.49] died: Jungle Rager hit the ground too hard
+[09:52:53] [Server thread/INFO]: Named entity bwv['Jungle Rager'/3980, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=80.87, y=59.91, z=-174.95] died: Jungle Rager hit the ground too hard
+[09:53:33] [Server thread/INFO]: TioSkrollex was blown up by Creeper
+[09:53:55] [Server thread/INFO]: Named entity bwv['Jungle Rager'/3914, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=94.23, y=80.46, z=-175.50] died: Jungle Rager suffocated in a wall
+[09:54:06] [Server thread/INFO]: Named entity bwv['Jungle Rager'/3832, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=89.81, y=74.34, z=-176.70] died: Jungle Rager burned to death
+[09:54:24] [Server thread/INFO]: Named entity bwv['Jungle Golem'/3831, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=88.54, y=75.00, z=-189.06] died: Jungle Golem was slain by TioSkrollex using [Magmablade]
+[09:54:27] [Server thread/INFO]: Danielcf37 has completed the challenge [Ranger]
+[09:54:52] [Server thread/INFO]: Danielcf37 was blown up by Creeper
+[09:56:28] [Server thread/INFO]: Named entity bwv['Jungle Rager'/3834, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=94.70, y=80.13, z=-176.36] died: Jungle Rager suffocated in a wall
+[09:57:04] [Server thread/INFO]: Danielcf37 was slain by Silverfish
+[09:57:15] [Server thread/INFO]: Named entity bwv['Jungle Golem'/3833, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=76.56, y=72.42, z=-192.65] died: death.attack.magic.item
+[09:57:48] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=72, y=76, z=-162} gu{x=72, y=76, z=-161}
