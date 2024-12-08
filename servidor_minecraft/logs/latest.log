@@ -42,3 +42,7 @@
 [03:22:35] [Server thread/INFO]: Named entity bwf['☆ Enslaver ☆'/954, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-90.70, y=60.00, z=-232.70] died: ☆ Enslaver ☆ was slain by TioSkrollex using [Magmablade]
 [03:24:45] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-73, y=63, z=-229} gu{x=-74, y=61, z=-228}
 [03:24:46] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-78, y=63, z=-229} gu{x=-79, y=62, z=-229}
+[03:25:56] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-38, y=55, z=-193} gu{x=-40, y=53, z=-193}
+[03:26:28] [Server thread/INFO]: Named entity bwf['Bandit'/1598, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-45.70, y=61.31, z=-165.30] died: Bandit was slain by TioSkrollex using [Magmablade]
+[03:26:28] [Server thread/INFO]: Named entity bwf['Bandit'/1597, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-45.55, y=60.00, z=-169.64] died: Bandit was slain by TioSkrollex using [Magmablade]
+[03:26:30] [Server thread/INFO]: Named entity bwf['Bandit'/1596, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-50.74, y=60.00, z=-168.73] died: Bandit was burnt to a crisp whilst fighting TioSkrollex
