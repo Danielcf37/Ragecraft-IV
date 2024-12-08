@@ -1,0 +1,42 @@
+[01:46:55] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:46:59] [ServerMain/INFO]: Loaded 7 recipes
+[01:46:59] [ServerMain/INFO]: Loaded 1633 advancements
+[01:47:00] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[01:47:00] [Server thread/INFO]: Loading properties
+[01:47:00] [Server thread/INFO]: Default game type: SURVIVAL
+[01:47:00] [Server thread/INFO]: Generating keypair
+[01:47:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:47:00] [Server thread/INFO]: Using epoll channel type
+[01:47:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:47:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:47:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:47:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:47:00] [Server thread/INFO]: Preparing level "world"
+[01:47:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:47:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:47:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:47:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:47:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:47:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:47:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:47:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:47:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:47:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:47:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:47:05] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[01:47:06] [Worker-Main-2/INFO]: Preparing spawn area: 16%
+[01:47:06] [Worker-Main-2/INFO]: Preparing spawn area: 94%
+[01:47:07] [Server thread/INFO]: Time elapsed: 6361 ms
+[01:47:07] [Server thread/INFO]: Done (6.557s)! For help, type "help"
+[01:47:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4463ms or 89 ticks behind
+[01:47:11] [Server thread/WARN]: UUID of added entity already exists: bxe['Piglin'/12, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=659.50, y=5.00, z=508.50]
+[01:47:11] [Server thread/WARN]: UUID of added entity already exists: bga['Marker'/22, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=29999999.50, y=100.00, z=27115050.50]
+[01:47:25] [Server thread/INFO]: Danielcf37[/127.133.49.52:33213] logged in with entity id 42 at (84.88219596416899, 170.1661092609382, 312.42606672470424)
+[01:47:25] [Server thread/INFO]: Danielcf37 joined the game
+[01:48:07] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[01:48:07] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[01:48:07] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[01:48:12] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[01:48:12] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[01:48:12] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[01:52:47] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/679, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-53.50, y=171.03, z=283.50]
