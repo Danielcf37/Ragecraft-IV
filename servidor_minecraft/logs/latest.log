@@ -1,50 +1,60 @@
-[03:15:53] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03:15:56] [ServerMain/INFO]: Loaded 7 recipes
-[03:15:56] [ServerMain/INFO]: Loaded 1633 advancements
-[03:15:56] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[03:15:56] [Server thread/INFO]: Loading properties
-[03:15:56] [Server thread/INFO]: Default game type: SURVIVAL
-[03:15:56] [Server thread/INFO]: Generating keypair
-[03:15:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:15:57] [Server thread/INFO]: Using epoll channel type
-[03:15:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:15:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:15:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:15:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:15:57] [Server thread/INFO]: Preparing level "world"
-[03:15:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:16:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:00] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:16:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:00] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:16:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:00] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:16:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:16:00] [Worker-Main-1/INFO]: Preparing spawn area: 44%
-[03:16:01] [Server thread/INFO]: Preparing spawn area: 100%
-[03:16:01] [Server thread/INFO]: Time elapsed: 4498 ms
-[03:16:01] [Server thread/INFO]: Done (4.658s)! For help, type "help"
-[03:16:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2820ms or 56 ticks behind
-[03:16:04] [Server thread/WARN]: UUID of added entity already exists: bxe['Piglin'/11, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=659.50, y=5.00, z=508.50]
-[03:16:04] [Server thread/WARN]: UUID of added entity already exists: bga['Marker'/13, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=29999999.50, y=100.00, z=27115050.50]
-[03:16:23] [Server thread/INFO]: TioSkrollex[/127.54.56.198:38827] logged in with entity id 41 at (150.50059318752005, 169.0, 338.59615710889955)
-[03:16:23] [Server thread/INFO]: TioSkrollex joined the game
-[03:16:27] [Server thread/INFO]: Danielcf37[/127.133.49.52:50259] logged in with entity id 96 at (46.83889239197517, 173.0, 277.9349724959256)
-[03:16:27] [Server thread/INFO]: Danielcf37 joined the game
-[03:20:12] [Server thread/INFO]: TioSkrollex has completed the challenge [Spellblade]
-[03:20:51] [Server thread/INFO]: Named entity bwf['Bandit'/635, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-32.63, y=59.00, z=-231.81] died: Bandit was burnt to a crisp whilst fighting TioSkrollex
-[03:22:06] [Server thread/INFO]: Named entity bwf['Bandit'/875, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-70.47, y=62.00, z=-225.15] died: Bandit was slain by TioSkrollex using [Magmablade]
-[03:22:16] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-67, y=62, z=-206} gu{x=-66, y=61, z=-205}
-[03:22:16] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-67, y=62, z=-206} gu{x=-66, y=61, z=-205}
-[03:22:16] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-66, y=61, z=-206} gu{x=-66, y=61, z=-205}
-[03:22:18] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-61, y=61, z=-217} gu{x=-62, y=61, z=-218}
-[03:22:30] [Server thread/INFO]: Named entity bwf['Bandit'/955, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-87.36, y=60.00, z=-232.75] died: Bandit was slain by TioSkrollex using [Magmablade]
-[03:22:35] [Server thread/INFO]: Named entity bwf['☆ Enslaver ☆'/954, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-90.70, y=60.00, z=-232.70] died: ☆ Enslaver ☆ was slain by TioSkrollex using [Magmablade]
-[03:24:45] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-73, y=63, z=-229} gu{x=-74, y=61, z=-228}
-[03:24:46] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-78, y=63, z=-229} gu{x=-79, y=62, z=-229}
-[03:25:56] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-38, y=55, z=-193} gu{x=-40, y=53, z=-193}
-[03:26:28] [Server thread/INFO]: Named entity bwf['Bandit'/1598, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-45.70, y=61.31, z=-165.30] died: Bandit was slain by TioSkrollex using [Magmablade]
-[03:26:28] [Server thread/INFO]: Named entity bwf['Bandit'/1597, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-45.55, y=60.00, z=-169.64] died: Bandit was slain by TioSkrollex using [Magmablade]
-[03:26:30] [Server thread/INFO]: Named entity bwf['Bandit'/1596, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-50.74, y=60.00, z=-168.73] died: Bandit was burnt to a crisp whilst fighting TioSkrollex
-[03:54:54] [Server thread/INFO]: Named entity bwv['Jungle Golem'/4124, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=77.60, y=67.00, z=-240.76] died: Jungle Golem was shot by TioSkrollex using [The Apostle]
-[03:55:14] [Server thread/INFO]: Named entity bwv['Jungle Rager'/4125, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=45.40, y=62.00, z=-215.68] died: Jungle Rager was slain by TioSkrollex using [Magmablade]
+[09:28:19] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09:28:23] [ServerMain/INFO]: Loaded 7 recipes
+[09:28:23] [ServerMain/INFO]: Loaded 1633 advancements
+[09:28:24] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[09:28:24] [Server thread/INFO]: Loading properties
+[09:28:24] [Server thread/INFO]: Default game type: SURVIVAL
+[09:28:24] [Server thread/INFO]: Generating keypair
+[09:28:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:28:24] [Server thread/INFO]: Using epoll channel type
+[09:28:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09:28:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[09:28:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09:28:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[09:28:24] [Server thread/INFO]: Preparing level "world"
+[09:28:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:28:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:28:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[09:28:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[09:28:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[09:28:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[09:28:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[09:28:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[09:28:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[09:28:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[09:28:29] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[09:28:29] [Worker-Main-2/INFO]: Preparing spawn area: 24%
+[09:28:30] [Worker-Main-1/INFO]: Preparing spawn area: 83%
+[09:28:31] [Server thread/INFO]: Time elapsed: 6456 ms
+[09:28:31] [Server thread/INFO]: Done (6.681s)! For help, type "help"
+[09:28:35] [Server thread/INFO]: TioSkrollex[/127.54.56.198:41523] logged in with entity id 11 at (70.08694666309613, 67.0, -242.31831497392068)
+[09:28:35] [Server thread/INFO]: TioSkrollex joined the game
+[09:28:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3837ms or 76 ticks behind
+[09:28:35] [Server thread/WARN]: UUID of added entity already exists: bxe['Piglin'/12, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=659.50, y=5.00, z=508.50]
+[09:28:36] [Server thread/WARN]: UUID of added entity already exists: bga['Marker'/24, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=29999999.50, y=100.00, z=27115050.50]
+[09:29:29] [Server thread/INFO]: Named entity bwv['Jungle Golem'/79, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=57.36, y=64.00, z=-236.18] died: Jungle Golem was shot by TioSkrollex using [The Apostle]
+[09:29:32] [Server thread/INFO]: Named entity bwv['Jungle Rager'/80, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=54.20, y=64.00, z=-235.16] died: Jungle Rager was shot by TioSkrollex using [The Apostle]
+[09:30:38] [Server thread/INFO]: Named entity bwv['Jungle Golem'/77, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=55.79, y=64.00, z=-235.84] died: Jungle Golem was shot by TioSkrollex using [The Apostle]
+[09:30:44] [Server thread/INFO]: Named entity bwv['Jungle Rager'/78, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=49.81, y=63.00, z=-233.13] died: Jungle Rager was slain by TioSkrollex using [Magmablade]
+[09:30:47] [Server thread/INFO]: Danielcf37[/127.133.49.52:41813] logged in with entity id 305 at (48.741660993402746, 63.0, -228.44569143307567)
+[09:30:47] [Server thread/INFO]: Danielcf37 joined the game
+[09:31:24] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/374, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-53.50, y=171.03, z=283.50]
+[09:31:41] [Server thread/INFO]: Named entity bwv['Jungle Golem'/234, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=49.62, y=63.00, z=-232.58] died: Jungle Golem was slain by Danielcf37 using [Bonebreaker]
+[09:31:42] [Server thread/INFO]: Named entity bwv['Jungle Rager'/235, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=49.01, y=65.60, z=-234.75] died: Jungle Rager was slain by Danielcf37 using [Bonebreaker]
+[09:31:43] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[09:31:43] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[09:31:43] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[09:31:50] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[09:31:50] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[09:31:50] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[09:32:03] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[09:32:07] [Server thread/ERROR]: Display entityNot a string
+[09:32:07] [Server thread/ERROR]: Display entityNot a string
+[09:32:08] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[09:32:12] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[09:32:24] [Server thread/ERROR]: Display entityNot a string
+[09:32:24] [Server thread/ERROR]: Display entityNot a string
+[09:32:25] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[09:36:44] [Server thread/INFO]: Named entity bvz['Stone Golem'/1121, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=64.33, y=66.00, z=-248.87] died: Stone Golem was slain by Danielcf37 using [Bonebreaker]
+[09:37:14] [Server thread/INFO]: Named entity bvz['Stone Golem'/1119, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=62.38, y=63.00, z=-258.51] died: Stone Golem was slain by Danielcf37 using [Bonebreaker]
+[09:38:03] [Server thread/INFO]: Named entity bwv['Jungle Golem'/1427, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=74.09, y=67.00, z=-214.90] died: Jungle Golem was slain by Danielcf37 using [Bonebreaker]
