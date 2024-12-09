@@ -344,3 +344,22 @@
 [02:16:00] [Server thread/INFO]: Villager byb['Villager'/946, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=113.50, y=35.00, z=-367.50] died, message: 'Villager was killed'
 [02:16:00] [Server thread/INFO]: TioSkrollex has completed the challenge [Adventurer]
 [02:16:00] [Server thread/INFO]: Danielcf37 has completed the challenge [Adventurer]
+[02:16:49] [Server thread/WARN]: TioSkrollex moved wrongly!
+[02:16:59] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/11069, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-53.50, y=171.03, z=283.50]
+[02:20:13] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:20:13] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:20:50] [Server thread/ERROR]: Display entityNot a string
+[02:20:56] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:20:56] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:20:57] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:20:57] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:20:57] [Server thread/ERROR]: Display entityNot a string
+[02:20:58] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:12,cr_boots:1,cr_modifier:89,cr_rarity:1,cr_tier:1,display:{Lore:['{"text":"Uncommon Suffix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"15","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"1","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Boots ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','[{"text":"[Evocation] ","color":"#611F94","bold":true,"italic":false},{"text":"When you are hit, summon","color":"#725094","bold":false,"italic":false}]','{"text":"fangs below nearby enemies, dealing 6","color":"#725094","bold":false,"italic":false}','{"text":"damage. Cooldown: 10 s","color":"#725094","bold":false,"italic":false}'],Name:'{"text":"Rune of Evocation","color":"#269AFF","bold":true,"italic":false}'}}}
+[02:21:02] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:12,cr_boots:1,cr_modifier:89,cr_rarity:1,cr_tier:1,display:{Lore:['{"text":"Uncommon Suffix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"15","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"1","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Boots ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','[{"text":"[Evocation] ","color":"#611F94","bold":true,"italic":false},{"text":"When you are hit, summon","color":"#725094","bold":false,"italic":false}]','{"text":"fangs below nearby enemies, dealing 6","color":"#725094","bold":false,"italic":false}','{"text":"damage. Cooldown: 10 s","color":"#725094","bold":false,"italic":false}'],Name:'{"text":"Rune of Evocation","color":"#269AFF","bold":true,"italic":false}'}}}
+[02:21:08] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:21:08] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:25:59] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:25:59] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:26:00] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:26:02] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:26:04] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}

@@ -113,6 +113,18 @@
     },
     "done": true
   },
+  "general:0_upgrade_explain": {
+    "criteria": {
+      "requirement": "2024-12-09 02:17:35 +0000"
+    },
+    "done": true
+  },
+  "challenges:explorer/adventurer": {
+    "criteria": {
+      "requirement": "2024-12-09 02:16:00 +0000"
+    },
+    "done": true
+  },
   "challenges:arcanist/shaman": {
     "criteria": {
       "requirement": "2024-12-09 02:15:24 +0000"
