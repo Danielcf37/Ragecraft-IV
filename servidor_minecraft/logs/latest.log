@@ -99,3 +99,27 @@
 [01:24:54] [Server thread/INFO]: Named entity bwv['Jungle Rager'/2211, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=110.50, y=83.46, z=-248.68] died: Jungle Rager was burnt to a crisp whilst fighting TioSkrollex
 [01:24:54] [Server thread/INFO]: Named entity bwv['Jungle Golem'/2214, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=111.50, y=82.00, z=-250.89] died: Jungle Golem was burnt to a crisp whilst fighting TioSkrollex
 [01:24:56] [Server thread/INFO]: Named entity bwv['Jungle Golem'/2210, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=111.68, y=82.42, z=-244.69] died: Jungle Golem burned to death
+[01:26:11] [Server thread/INFO]: Named entity bwv['Jungle Golem'/889, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=108.51, y=95.50, z=-260.71] died: death.attack.magic.item
+[01:26:11] [Server thread/INFO]: Named entity bwv['Jungle Rager'/890, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=108.51, y=96.96, z=-260.71] died: death.attack.magic.item
+[01:26:12] [Server thread/INFO]: Named entity bwv['Jungle Rager'/2290, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=112.45, y=90.71, z=-257.80] died: Jungle Rager was doomed to fall by TioSkrollex using [Arcane Grenade]
+[01:26:43] [Server thread/INFO]: Named entity bwv['Jungle Golem'/2289, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=109.50, y=93.00, z=-280.77] died: Jungle Golem was blown up by Creeper
+[01:27:08] [Server thread/INFO]: Named entity bwv['Jungle Rager'/2215, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=112.50, y=89.00, z=-259.85] died: Jungle Rager burned to death
+[01:27:11] [Server thread/INFO]: Named entity bwv['Jungle Rager'/831, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=112.49, y=85.46, z=-246.81] died: Jungle Rager was burnt to a crisp whilst fighting TioSkrollex
+[01:27:13] [Server thread/INFO]: Named entity bwv['Jungle Golem'/830, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=112.49, y=85.00, z=-248.27] died: Jungle Golem was slain by TioSkrollex using [Magmablade]
+[01:27:17] [Server thread/INFO]: Named entity bwv['Jungle Rager'/2284, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=112.80, y=90.46, z=-257.85] died: death.attack.magic.item
+[01:27:22] [Server thread/INFO]: Named entity bwv['Jungle Golem'/2283, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=111.33, y=82.00, z=-257.28] died: Jungle Golem was doomed to fall by TioSkrollex using [Magmablade]
+[01:27:27] [Server thread/INFO]: Named entity bwv['Jungle Rager'/2143, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=110.50, y=83.46, z=-253.47] died: Jungle Rager burned to death
+[01:28:04] [Server thread/INFO]: Named entity bwv['Jungle Golem'/2017, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=104.24, y=89.00, z=-275.34] died: death.attack.magic.item
+[01:28:04] [Server thread/INFO]: Named entity bwv['Jungle Rager'/2018, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=104.24, y=90.46, z=-275.34] died: death.attack.magic.item
+[01:28:24] [Server thread/INFO]: Named entity bwv['Jungle Golem'/2212, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=102.73, y=89.00, z=-267.39] died: Jungle Golem was slain by TioSkrollex using [Magmablade]
+[01:28:25] [Server thread/INFO]: Named entity bwv['Jungle Rager'/2213, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=105.70, y=91.38, z=-266.36] died: Jungle Rager was burnt to a crisp whilst fighting TioSkrollex
+[01:28:29] [Server thread/INFO]: Named entity bwv['Jungle Golem'/2142, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=100.05, y=89.00, z=-267.92] died: Jungle Golem was slain by TioSkrollex using [Magmablade]
+[01:29:27] [Server thread/INFO]: Danielcf37[/127.133.49.52:50533] logged in with entity id 2807 at (8.59949254360849, 170.0, 265.9068209831186)
+[01:29:27] [Server thread/INFO]: Danielcf37 joined the game
+[01:30:29] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[01:30:29] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[01:30:34] [Server thread/ERROR]: Display entityNot a string
+[01:30:35] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[01:30:35] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[01:30:39] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[01:30:42] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
