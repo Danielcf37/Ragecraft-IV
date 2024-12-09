@@ -109,3 +109,15 @@
 [17:50:32] [Server thread/INFO]: Named entity bvo['Flying Creeper'/3399, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=373.28, y=128.66, z=-61.76] died: Flying Creeper suffocated in a wall
 [17:50:38] [Server thread/INFO]: Named entity bvo['Flying Creeper'/3525, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=362.35, y=80.08, z=-57.89] died: Flying Creeper was slain by TioSkrollex using [Magmablade]
 [17:51:00] [Server thread/INFO]: Named entity bvo['Flying Creeper'/3583, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=370.16, y=76.45, z=-57.69] died: Flying Creeper was killed
+[17:54:52] [Server thread/ERROR]: Display entityNot a string
+[17:54:52] [Server thread/ERROR]: Display entityNot a string
+[17:54:57] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:11,cr_enchant:130,cr_pickaxe:1,cr_rarity:0,display:{Lore:['{"text":"Common Prefix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"2","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"0","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Pickaxe ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"Efficiency I","color":"#BEDCFA","bold":true,"italic":false}'],Name:'{"text":"Efficient Rune","color":"white","bold":true,"italic":false}'}}}
+[17:54:57] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[17:54:57] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[17:54:57] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[17:54:57] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[17:54:58] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[17:54:58] [Server thread/ERROR]: Display entityNot a string
+[18:00:55] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/5233, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=348.99, y=91.45, z=-140.98] died: Reptilian Brute was slain by Danielcf37 using [Bonebreaker]
+[18:00:55] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/5232, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=348.30, y=91.45, z=-141.39] died: Reptilian Brute was slain by Danielcf37 using [Bonebreaker]
+[18:02:09] [Server thread/INFO]: Named entity bwv['☆ Reptilian Queen ☆'/5105, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=357.06, y=91.45, z=-140.65] died: ☆ Reptilian Queen ☆ was slain by Danielcf37 using [Bonebreaker]
