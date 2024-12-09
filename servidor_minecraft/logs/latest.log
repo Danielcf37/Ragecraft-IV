@@ -363,3 +363,41 @@
 [02:26:00] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
 [02:26:02] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
 [02:26:04] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:26:27] [Server thread/ERROR]: Display entityNot a string
+[02:26:27] [Server thread/ERROR]: Display entityNot a string
+[02:26:28] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:26:38] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:28:38] [Server thread/ERROR]: Display entityNot a string
+[02:28:38] [Server thread/ERROR]: Display entityNot a string
+[02:28:42] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:28:42] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:28:42] [Server thread/ERROR]: Display entityNot a string
+[02:28:42] [Server thread/ERROR]: Display entityNot a string
+[02:28:45] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:29:54] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=245, y=77, z=-173} gu{x=245, y=76, z=-173}
+[02:30:18] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/13108, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=248.27, y=80.00, z=-155.40] died: Reptilian Brute was slain by TioSkrollex using [Magmablade]
+[02:30:20] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=247, y=80, z=-151} gu{x=247, y=79, z=-149}
+[02:30:20] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=247, y=80, z=-151} gu{x=247, y=79, z=-149}
+[02:30:20] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=247, y=80, z=-151} gu{x=247, y=79, z=-149}
+[02:30:20] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=247, y=80, z=-151} gu{x=247, y=79, z=-149}
+[02:30:20] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=247, y=80, z=-151} gu{x=247, y=79, z=-149}
+[02:30:20] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=247, y=80, z=-151} gu{x=247, y=79, z=-149}
+[02:30:20] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=248, y=81, z=-147} gu{x=247, y=79, z=-149}
+[02:30:20] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=248, y=81, z=-147} gu{x=247, y=79, z=-149}
+[02:30:20] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=248, y=81, z=-147} gu{x=247, y=79, z=-149}
+[02:30:35] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/13107, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=255.56, y=79.45, z=-143.00] died: Reptilian Brute was slain by Danielcf37 using [Bonebreaker]
+[02:30:54] [Server thread/INFO]: TioSkrollex lost connection: Disconnected
+[02:30:54] [Server thread/INFO]: TioSkrollex left the game
+[02:32:26] [Server thread/INFO]: TioSkrollex[/127.54.56.198:42001] logged in with entity id 13390 at (252.42865927444453, 80.0, -144.98487620527834)
+[02:32:26] [Server thread/INFO]: TioSkrollex joined the game
+[02:35:05] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/13555, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=245.91, y=79.00, z=-209.16] died: Reptilian Brute was blown up by Creeper
+[02:35:05] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/13644, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=245.90, y=79.00, z=-210.02] died: Reptilian Brute was blown up by Creeper
+[02:35:11] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/13601, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=239.70, y=79.00, z=-215.30] died: death.attack.magic.item
+[02:35:11] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/13645, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=240.37, y=79.00, z=-214.84] died: death.attack.magic.item
+[02:35:13] [Server thread/INFO]: Named entity bvz['Stone Golem'/13574, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=240.55, y=79.00, z=-215.20] died: Stone Golem was slain by Danielcf37 using [Bonebreaker]
+[02:35:21] [Server thread/INFO]: Named entity bvz['Stone Golem'/13572, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=240.46, y=79.00, z=-214.78] died: Stone Golem was burnt to a crisp whilst fighting Danielcf37
+[02:35:24] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/13556, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=250.94, y=78.45, z=-209.12] died: Reptilian Brute was slain by Danielcf37 using [Bonebreaker]
+[02:35:32] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/13557, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=250.89, y=78.45, z=-209.31] died: Reptilian Brute was slain by Danielcf37 using [Bonebreaker]
+[02:35:37] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/13646, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=249.71, y=79.00, z=-227.44] died: Reptilian Brute burned to death
+[02:35:40] [Server thread/INFO]: Named entity bvo['Flying Creeper'/13757, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=251.46, y=79.95, z=-225.14] died: Flying Creeper was slain by TioSkrollex using [Magmablade]
+[02:35:52] [Server thread/INFO]: Named entity bvo['Flying Creeper'/13805, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=255.65, y=80.04, z=-240.73] died: Flying Creeper was slain by TioSkrollex using [Magmablade]
