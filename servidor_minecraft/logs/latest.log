@@ -262,3 +262,26 @@
 [18:40:09] [Server thread/INFO]: Named entity bvo['Flying Creeper'/12522, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=348.22, y=136.45, z=-295.60] died: Flying Creeper was blown up by Flying Creeper
 [18:40:30] [Server thread/INFO]: Named entity bvo['Flying Creeper'/12774, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=349.68, y=136.87, z=-301.25] died: Flying Creeper withered away
 [18:43:34] [Server thread/INFO]: Danielcf37 was doomed to fall by Phantom
+[18:46:11] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/14021, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-53.50, y=171.03, z=283.50]
+[18:50:18] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:50:23] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:50:25] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:50:28] [Server thread/ERROR]: Display entityNot a string
+[18:50:28] [Server thread/ERROR]: Display entityNot a string
+[18:50:28] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:50:33] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:50:33] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:50:33] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:50:34] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:50:34] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:50:34] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:50:36] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:50:36] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:50:36] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[18:50:48] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:50:48] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:50:48] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[18:51:50] [Server thread/INFO]: TioSkrollex lost connection: Disconnected
+[18:51:50] [Server thread/INFO]: TioSkrollex left the game
+[18:52:15] [Server thread/INFO]: RXJAAB[/127.167.181.41:36755] logged in with entity id 15131 at (411.13769715016696, 62.0, 431.92109997054104)
+[18:52:15] [Server thread/INFO]: RXJAAB joined the game
