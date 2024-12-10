@@ -1,291 +1,73 @@
-[17:22:55] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:22:58] [ServerMain/INFO]: Loaded 7 recipes
-[17:22:58] [ServerMain/INFO]: Loaded 1633 advancements
-[17:22:59] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[17:22:59] [Server thread/INFO]: Loading properties
-[17:22:59] [Server thread/INFO]: Default game type: SURVIVAL
-[17:22:59] [Server thread/INFO]: Generating keypair
-[17:22:59] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:22:59] [Server thread/INFO]: Using epoll channel type
-[17:22:59] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:22:59] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:22:59] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:22:59] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:22:59] [Server thread/INFO]: Preparing level "world"
-[17:23:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:23:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:23:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:23:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:23:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:23:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:23:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[17:23:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:23:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:23:04] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[17:23:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:23:05] [Worker-Main-3/INFO]: Preparing spawn area: 9%
-[17:23:05] [Worker-Main-2/INFO]: Preparing spawn area: 55%
-[17:23:05] [Server thread/INFO]: Time elapsed: 5846 ms
-[17:23:05] [Server thread/INFO]: Done (6.038s)! For help, type "help"
-[17:23:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4454ms or 89 ticks behind
-[17:23:11] [Server thread/WARN]: UUID of added entity already exists: bxe['Piglin'/31, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=659.50, y=5.00, z=508.50]
-[17:23:11] [Server thread/WARN]: UUID of added entity already exists: bga['Marker'/46, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=29999999.50, y=100.00, z=27115050.50]
-[17:23:15] [Server thread/INFO]: Danielcf37[/127.133.49.52:54805] logged in with entity id 57 at (355.33417768239616, 80.0, -220.5482664114772)
-[17:23:15] [Server thread/INFO]: Danielcf37 joined the game
-[17:23:16] [Server thread/INFO]: TioSkrollex[/127.54.56.198:48863] logged in with entity id 96 at (322.14276399118063, 79.0, -223.4527553403786)
-[17:23:16] [Server thread/INFO]: TioSkrollex joined the game
-[17:24:13] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=385, y=79, z=-233} gu{x=385, y=80, z=-232}
-[17:24:13] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=385, y=79, z=-233} gu{x=385, y=80, z=-232}
-[17:24:48] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=383, y=79, z=-236} gu{x=384, y=78, z=-236}
-[17:24:48] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=383, y=79, z=-236} gu{x=384, y=78, z=-236}
-[17:25:09] [Server thread/INFO]: Named entity bvo['Flying Creeper'/297, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=413.48, y=80.61, z=-199.45] died: Flying Creeper was killed
-[17:25:55] [Server thread/INFO]: Named entity bvo['Flying Creeper'/367, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=406.17, y=76.45, z=-156.10] died: Flying Creeper was killed
-[17:26:06] [Server thread/INFO]: Named entity bvo['Flying Creeper'/401, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=411.30, y=76.95, z=-160.13] died: Flying Creeper was killed
-[17:26:33] [Server thread/INFO]: Named entity bvo['Flying Creeper'/454, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=382.48, y=76.45, z=-152.27] died: Flying Creeper was killed
-[17:26:50] [Server thread/INFO]: Named entity bvo['Flying Creeper'/499, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=382.53, y=76.45, z=-151.86] died: Flying Creeper was killed
-[17:29:12] [Server thread/INFO]: Named entity bvo['Flying Creeper'/726, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=292.39, y=77.95, z=-182.36] died: Flying Creeper was killed
-[17:29:36] [Server thread/INFO]: Named entity bvo['Flying Creeper'/745, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=286.70, y=79.08, z=-174.69] died: Flying Creeper was shot by Danielcf37 using [Ornate Bow of Healing]
-[17:30:25] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/840, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=289.70, y=76.00, z=-165.93] died: Reptilian Abomination was slain by Danielcf37 using [Bonebreaker]
-[17:30:27] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/838, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=289.84, y=76.00, z=-166.27] died: Reptilian Abomination was slain by Danielcf37 using [Bonebreaker]
-[17:31:18] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=299, y=80, z=-143} gu{x=298, y=78, z=-142}
-[17:31:40] [Server thread/INFO]: Named entity bvo['Flying Creeper'/1025, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=302.53, y=76.45, z=-112.32] died: Flying Creeper was killed
-[17:32:12] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/1073, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=285.44, y=80.00, z=-124.70] died: Reptilian Brute was slain by TioSkrollex using [Magmablade]
-[17:32:17] [Server thread/INFO]: Named entity bvo['Flying Creeper'/1078, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=298.33, y=76.45, z=-115.42] died: Flying Creeper was killed
-[17:32:35] [Server thread/INFO]: Named entity bvo['Flying Creeper'/1121, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=288.53, y=81.57, z=-118.96] died: Flying Creeper suffocated in a wall
-[17:32:40] [Server thread/INFO]: Named entity bvo['Flying Creeper'/1149, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=303.36, y=76.45, z=-117.55] died: Flying Creeper was killed
-[17:32:50] [Server thread/INFO]: Named entity bvo['Flying Creeper'/1173, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=292.61, y=86.75, z=-118.91] died: Flying Creeper was killed
-[17:33:52] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=266, y=80, z=-96} gu{x=268, y=79, z=-95}
-[17:35:30] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=248, y=80, z=-110} gu{x=248, y=79, z=-109}
-[17:35:30] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=248, y=80, z=-110} gu{x=248, y=79, z=-109}
-[17:35:30] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=249, y=79, z=-110} gu{x=248, y=79, z=-109}
-[17:35:30] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=249, y=79, z=-110} gu{x=248, y=79, z=-109}
-[17:36:40] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=300, y=80, z=-156} gu{x=301, y=78, z=-157}
-[17:36:40] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=301, y=80, z=-156} gu{x=301, y=78, z=-157}
-[17:38:43] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/1894, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=318.72, y=82.00, z=-170.31] died: Reptilian Brute was slain by Danielcf37 using [Bonebreaker]
-[17:38:44] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/1889, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=321.28, y=81.45, z=-171.20] died: Reptilian Abomination was slain by Danielcf37 using [Bonebreaker]
-[17:38:47] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/1896, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=323.02, y=82.00, z=-168.77] died: Reptilian Brute was slain by Danielcf37 using [Bonebreaker]
-[17:38:59] [Server thread/INFO]: Named entity bwv['☆ Reptilian Queen ☆'/1892, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=325.91, y=81.45, z=-172.94] died: ☆ Reptilian Queen ☆ was slain by TioSkrollex using [Magmablade]
-[17:39:06] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/1980, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=320.63, y=82.00, z=-173.45] died: Reptilian Abomination was slain by Danielcf37 using [Bonebreaker]
-[17:40:57] [Server thread/INFO]: Named entity bvo['Flying Creeper'/2257, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=335.48, y=81.08, z=-146.73] died: Flying Creeper was slain by Danielcf37 using [Bonebreaker]
-[17:41:10] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/1895, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=340.20, y=80.00, z=-149.70] died: Reptilian Brute was burnt to a crisp whilst fighting TioSkrollex
-[17:41:24] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/2096, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=340.83, y=79.45, z=-147.78] died: Reptilian Brute was slain by Danielcf37 using [Bonebreaker]
-[17:41:41] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/2058, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=342.06, y=79.45, z=-143.82] died: Reptilian Abomination was slain by Danielcf37 using [Bonebreaker]
-[17:41:49] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/2097, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=336.71, y=80.00, z=-150.49] died: Reptilian Brute was slain by TioSkrollex using [Magmablade]
-[17:41:59] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/2260, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=344.78, y=80.00, z=-144.50] died: Reptilian Abomination was slain by TioSkrollex using [Magmablade]
-[17:42:06] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/2389, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=348.41, y=80.00, z=-148.40] died: Reptilian Abomination was slain by Danielcf37 using [Bonebreaker]
-[17:42:12] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/2315, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=346.98, y=80.00, z=-148.03] died: Reptilian Abomination was burnt to a crisp whilst fighting TioSkrollex
-[17:42:22] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/2094, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=348.50, y=80.00, z=-149.32] died: Reptilian Brute was slain by TioSkrollex using [Magmablade]
-[17:42:38] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/2509, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=342.15, y=79.45, z=-143.93] died: Reptilian Abomination was slain by Danielcf37 using [Bonebreaker]
-[17:43:11] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/2095, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=352.13, y=76.00, z=-163.77] died: Reptilian Brute was slain by TioSkrollex using [Magmablade]
-[17:43:42] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/2687, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=355.27, y=75.45, z=-172.52] died: Reptilian Brute was slain by Danielcf37 using [Bonebreaker]
-[17:44:12] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/2686, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=355.27, y=75.45, z=-172.52] died: Reptilian Brute was slain by Danielcf37 using [Bonebreaker]
-[17:45:15] [Server thread/INFO]: Named entity bvo['Flying Creeper'/2814, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=342.57, y=81.20, z=-137.23] died: Flying Creeper was slain by TioSkrollex using [Magmablade]
-[17:46:03] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/2869, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=343.00, y=79.45, z=-103.52] died: Reptilian Abomination was slain by Danielcf37 using [Bonebreaker]
-[17:46:05] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/2865, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=343.18, y=79.45, z=-102.94] died: Reptilian Abomination was slain by Danielcf37 using [Bonebreaker]
-[17:46:51] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/2862, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=357.53, y=80.00, z=-87.35] died: Reptilian Brute was slain by TioSkrollex using [Magmablade]
-[17:46:53] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/2863, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=357.50, y=80.00, z=-88.80] died: Reptilian Brute was slain by TioSkrollex using [Magmablade]
-[17:46:57] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/2867, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=358.79, y=80.00, z=-85.97] died: Reptilian Abomination was slain by TioSkrollex using [Magmablade]
-[17:47:25] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/3045, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=346.18, y=78.45, z=-95.85] died: Reptilian Brute was slain by Danielcf37 using [Bonebreaker]
-[17:47:32] [Server thread/INFO]: Named entity bwv['☆ Reptilian Queen ☆'/2871, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=353.37, y=76.00, z=-99.53] died: death.attack.magic.item
-[17:48:31] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/3245, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=358.31, y=87.00, z=-73.60] died: Reptilian Brute was slain by TioSkrollex using [Magmablade]
-[17:48:34] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/3223, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=359.86, y=80.50, z=-77.87] died: Reptilian Brute was slain by Danielcf37 using [Bonebreaker]
-[17:48:35] [Server thread/INFO]: Named entity bvo['Flying Creeper'/3145, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=372.89, y=118.85, z=-42.71] died: Flying Creeper suffocated in a wall
-[17:48:36] [Server thread/INFO]: Named entity bvo['Flying Creeper'/3202, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=365.30, y=85.85, z=-67.35] died: Flying Creeper was slain by TioSkrollex using [Magmablade]
-[17:48:47] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/3265, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=358.20, y=79.45, z=-84.19] died: Reptilian Brute was slain by Danielcf37 using [Bonebreaker]
-[17:48:58] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/3247, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=366.87, y=96.00, z=-78.01] died: Reptilian Brute was slain by TioSkrollex using [Magmablade]
-[17:49:00] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/3246, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=365.36, y=96.00, z=-77.43] died: Reptilian Brute was slain by TioSkrollex using [Magmablade]
-[17:49:06] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/3244, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=364.30, y=96.00, z=-72.30] died: Reptilian Brute was burnt to a crisp whilst fighting TioSkrollex
-[17:49:06] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/3347, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=364.48, y=97.68, z=-73.16] died: Reptilian Brute was slain by TioSkrollex using [Magmablade]
-[17:49:07] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/3341, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=355.39, y=74.00, z=-74.80] died: Reptilian Brute was slain by Danielcf37 using [Bonebreaker]
-[17:49:10] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/3345, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=364.82, y=87.00, z=-74.64] died: Reptilian Brute burned to death
-[17:49:15] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/3346, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=363.55, y=97.04, z=-66.28] died: Reptilian Brute was burnt to a crisp whilst fighting TioSkrollex
-[17:49:15] [Server thread/INFO]: Named entity bvo['Flying Creeper'/3361, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=371.11, y=76.45, z=-58.43] died: Flying Creeper was killed
-[17:49:30] [Server thread/INFO]: Named entity bvo['Flying Creeper'/3326, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=361.02, y=88.10, z=-67.15] died: Flying Creeper was slain by TioSkrollex using [Magmablade]
-[17:49:47] [Server thread/INFO]: Named entity bvo['Flying Creeper'/3413, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=371.44, y=77.45, z=-54.40] died: Flying Creeper was killed
-[17:50:00] [Server thread/INFO]: Named entity bvo['Flying Creeper'/3431, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=367.70, y=76.45, z=-56.86] died: Flying Creeper was killed
-[17:50:10] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/3452, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-53.50, y=171.03, z=283.50]
-[17:50:22] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=357, y=81, z=-62} gu{x=357, y=80, z=-63}
-[17:50:22] [Server thread/INFO]: Named entity bvo['Flying Creeper'/3291, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=357.39, y=131.15, z=-47.81] died: Flying Creeper suffocated in a wall
-[17:50:32] [Server thread/INFO]: Named entity bvo['Flying Creeper'/3399, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=373.28, y=128.66, z=-61.76] died: Flying Creeper suffocated in a wall
-[17:50:38] [Server thread/INFO]: Named entity bvo['Flying Creeper'/3525, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=362.35, y=80.08, z=-57.89] died: Flying Creeper was slain by TioSkrollex using [Magmablade]
-[17:51:00] [Server thread/INFO]: Named entity bvo['Flying Creeper'/3583, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=370.16, y=76.45, z=-57.69] died: Flying Creeper was killed
-[17:54:52] [Server thread/ERROR]: Display entityNot a string
-[17:54:52] [Server thread/ERROR]: Display entityNot a string
-[17:54:57] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:11,cr_enchant:130,cr_pickaxe:1,cr_rarity:0,display:{Lore:['{"text":"Common Prefix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"2","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"0","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Pickaxe ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"Efficiency I","color":"#BEDCFA","bold":true,"italic":false}'],Name:'{"text":"Efficient Rune","color":"white","bold":true,"italic":false}'}}}
-[17:54:57] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[17:54:57] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[17:54:57] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[17:54:57] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[17:54:58] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[17:54:58] [Server thread/ERROR]: Display entityNot a string
-[18:00:55] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/5233, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=348.99, y=91.45, z=-140.98] died: Reptilian Brute was slain by Danielcf37 using [Bonebreaker]
-[18:00:55] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/5232, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=348.30, y=91.45, z=-141.39] died: Reptilian Brute was slain by Danielcf37 using [Bonebreaker]
-[18:02:09] [Server thread/INFO]: Named entity bwv['☆ Reptilian Queen ☆'/5105, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=357.06, y=91.45, z=-140.65] died: ☆ Reptilian Queen ☆ was slain by Danielcf37 using [Bonebreaker]
-[18:03:34] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/5463, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=354.22, y=86.45, z=-144.92] died: Reptilian Abomination was slain by TioSkrollex using [Magmablade]
-[18:03:53] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/5668, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=351.96, y=87.00, z=-146.63] died: Reptilian Abomination was slain by TioSkrollex using [Magmablade]
-[18:03:54] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/5461, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=351.83, y=87.00, z=-147.00] died: Reptilian Abomination was slain by TioSkrollex using [Magmablade]
-[18:03:56] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/5318, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=352.54, y=87.00, z=-146.29] died: Reptilian Abomination was slain by TioSkrollex using [Magmablade]
-[18:03:58] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/5774, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=350.69, y=87.00, z=-146.54] died: death.attack.magic.item
-[18:04:53] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/5897, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=354.84, y=87.00, z=-167.91] died: Reptilian Abomination was slain by TioSkrollex using [Magmablade]
-[18:05:10] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/5941, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=355.57, y=87.00, z=-171.59] died: Reptilian Abomination was slain by TioSkrollex using [Magmablade]
-[18:05:11] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/5895, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=355.55, y=87.00, z=-171.53] died: Reptilian Abomination was slain by TioSkrollex using [Magmablade]
-[18:05:34] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/6014, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=350.25, y=86.45, z=-180.85] died: Reptilian Abomination was slain by Danielcf37 using [Bonebreaker]
-[18:05:43] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/5672, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=346.94, y=86.45, z=-180.89] died: Reptilian Abomination was slain by Danielcf37 using [Bonebreaker]
-[18:05:56] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/6099, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=351.73, y=87.00, z=-180.76] died: Reptilian Abomination was slain by TioSkrollex using [Magmablade]
-[18:05:58] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/6012, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=351.46, y=87.00, z=-181.32] died: Reptilian Abomination was slain by TioSkrollex using [Magmablade]
-[18:05:59] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/5944, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=349.79, y=86.45, z=-180.79] died: Reptilian Abomination withered away whilst fighting Danielcf37
-[18:06:30] [Server thread/INFO]: Named entity bwv['☆ Reptilian Queen ☆'/1902, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=335.23, y=87.00, z=-186.81] died: ☆ Reptilian Queen ☆ was slain by TioSkrollex using [Magmablade]
-[18:06:34] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/5996, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=335.51, y=88.54, z=-190.89] died: Reptilian Abomination withered away whilst fighting Danielcf37
-[18:06:38] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/5936, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=342.30, y=86.45, z=-191.17] died: Reptilian Abomination was slain by Danielcf37 using [Bonebreaker]
-[18:06:38] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/5869, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=343.49, y=87.00, z=-191.35] died: Reptilian Abomination withered away
-[18:06:38] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/5934, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=343.44, y=87.00, z=-191.35] died: Reptilian Abomination withered away
-[18:06:40] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/6083, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=341.76, y=86.45, z=-190.90] died: Reptilian Abomination was slain by Danielcf37 using [Bonebreaker]
-[18:06:41] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/6085, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=339.44, y=87.00, z=-184.72] died: Reptilian Abomination was blown up by Creeper
-[18:07:34] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/5371, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=339.57, y=91.45, z=-193.99] died: death.attack.magic.item
-[18:07:34] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/5367, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=340.36, y=91.45, z=-194.08] died: death.attack.magic.item
-[18:07:36] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/5302, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=345.79, y=91.45, z=-189.38] died: Reptilian Abomination was slain by Danielcf37 using [Bonebreaker]
-[18:07:48] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/5300, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=339.49, y=91.45, z=-192.25] died: Reptilian Abomination was burnt to a crisp whilst fighting TioSkrollex
-[18:07:50] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/5369, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=336.90, y=91.45, z=-190.43] died: Reptilian Abomination was slain by TioSkrollex using [Magmablade]
-[18:08:01] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/5298, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=337.88, y=91.45, z=-186.05] died: Reptilian Abomination was slain by TioSkrollex using [Magmablade]
-[18:08:03] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/6312, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=337.01, y=91.45, z=-189.84] died: Reptilian Abomination was slain by TioSkrollex using [Magmablade]
-[18:08:03] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/6314, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=337.85, y=91.45, z=-186.25] died: Reptilian Abomination was burnt to a crisp whilst fighting TioSkrollex
-[18:08:51] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/5352, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=327.08, y=92.00, z=-159.02] died: Reptilian Brute withered away
-[18:09:25] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/6761, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=339.18, y=91.45, z=-180.65] died: Reptilian Abomination was slain by Danielcf37 using [Bonebreaker]
-[18:09:26] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/6763, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=336.24, y=91.45, z=-181.20] died: Reptilian Abomination was slain by Danielcf37 using [Bonebreaker]
-[18:09:28] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/6765, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=336.38, y=91.45, z=-180.62] died: Reptilian Abomination was slain by Danielcf37 using [Bonebreaker]
-[18:09:55] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/6813, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=336.50, y=92.00, z=-177.77] died: Reptilian Brute was slain by Danielcf37 using [Bonebreaker]
-[18:09:59] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/6812, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=347.59, y=92.00, z=-139.71] died: Reptilian Brute was slain by TioSkrollex using [Magmablade]
-[18:10:13] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/6811, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=340.70, y=96.00, z=-146.18] died: Reptilian Brute was slain by Danielcf37 using [Bonebreaker]
-[18:10:22] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/6950, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=341.49, y=96.00, z=-148.21] died: Reptilian Brute was slain by Danielcf37 using [Bonebreaker]
-[18:10:32] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/6814, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=341.23, y=103.00, z=-140.09] died: Reptilian Brute was slain by Danielcf37 using [Bonebreaker]
-[18:12:32] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/7311, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=347.16, y=113.45, z=-151.86] died: death.attack.magic.item
-[18:12:32] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/7309, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=346.87, y=113.45, z=-149.41] died: death.attack.magic.item
-[18:12:48] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/7310, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=347.11, y=113.45, z=-152.05] died: Reptilian Brute was slain by Danielcf37 using [Bonebreaker]
-[18:13:00] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/7230, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=347.85, y=113.45, z=-154.41] died: Reptilian Abomination was slain by Danielcf37 using [Bonebreaker]
-[18:13:03] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/7004, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=347.40, y=113.45, z=-154.81] died: Reptilian Abomination was slain by Danielcf37 using [Bonebreaker]
-[18:13:30] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/7228, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=343.20, y=114.00, z=-144.52] died: death.attack.magic.item
-[18:13:35] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/7426, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=339.79, y=114.00, z=-144.86] died: Reptilian Abomination was slain by Danielcf37 using [Bonebreaker]
-[18:13:42] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/7529, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=341.15, y=114.00, z=-144.54] died: Reptilian Abomination was burnt to a crisp whilst fighting Danielcf37
-[18:14:25] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/7006, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=347.35, y=113.45, z=-149.21] died: Reptilian Abomination was slain by Danielcf37 using [Bonebreaker]
-[18:14:26] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/7337, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=345.66, y=110.00, z=-142.11] died: Reptilian Abomination was slain by TioSkrollex using [Magmablade]
-[18:14:27] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/7002, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=347.36, y=113.45, z=-149.81] died: Reptilian Abomination was slain by Danielcf37 using [Bonebreaker]
-[18:14:46] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/7428, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=347.25, y=113.45, z=-154.94] died: Reptilian Abomination was slain by TioSkrollex using [Magmablade]
-[18:14:46] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/7226, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=347.85, y=113.45, z=-154.41] died: Reptilian Abomination was slain by TioSkrollex using [Magmablade]
-[18:14:51] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/7430, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=338.19, y=114.00, z=-156.63] died: Reptilian Abomination was burnt to a crisp whilst fighting TioSkrollex
-[18:14:56] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/7788, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=345.77, y=114.00, z=-155.36] died: Reptilian Brute was burnt to a crisp whilst fighting Danielcf37
-[18:14:57] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/7335, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=347.40, y=113.45, z=-154.81] died: Reptilian Abomination withered away whilst fighting Danielcf37
-[18:15:37] [Server thread/INFO]: Named entity bwv['☆ Reptilian Queen ☆'/7833, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=338.70, y=118.05, z=-154.30] died: ☆ Reptilian Queen ☆ was slain by Danielcf37 using [Bonebreaker]
-[18:15:39] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/7835, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=337.15, y=114.71, z=-156.34] died: Reptilian Abomination was slain by Danielcf37 using [Bonebreaker]
-[18:15:56] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/7837, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=343.49, y=114.00, z=-168.92] died: Reptilian Abomination was slain by Danielcf37 using [Bonebreaker]
-[18:16:18] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/7874, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=346.47, y=113.00, z=-186.40] died: Reptilian Brute was slain by Danielcf37 using [Bonebreaker]
-[18:16:34] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/7486, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=338.49, y=114.00, z=-185.32] died: Reptilian Brute was slain by Danielcf37 using [Bonebreaker]
-[18:16:53] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/7875, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=340.55, y=121.00, z=-183.38] died: death.attack.magic.item
-[18:16:57] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/7394, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=339.21, y=121.06, z=-178.46] died: Reptilian Brute was burnt to a crisp whilst fighting TioSkrollex
-[18:16:59] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/7600, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=343.47, y=121.00, z=-185.65] died: Reptilian Brute burned to death
-[18:17:04] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/8187, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=335.74, y=121.06, z=-181.41] died: death.attack.magic.item
-[18:17:06] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/8188, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=336.01, y=121.06, z=-181.20] died: Reptilian Brute was slain by Danielcf37 using [Bonebreaker]
-[18:17:08] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/7232, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=336.80, y=121.06, z=-182.24] died: Reptilian Brute was slain by Danielcf37 using [Bonebreaker]
-[18:17:16] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/7392, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=339.64, y=122.14, z=-179.11] died: Reptilian Brute was slain by Danielcf37 using [Bonebreaker]
-[18:17:30] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/7850, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=341.41, y=120.45, z=-178.15] died: Reptilian Abomination was killed
-[18:17:30] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/8017, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=342.92, y=120.51, z=-179.65] died: death.attack.magic.item
-[18:17:33] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/8186, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=341.49, y=120.45, z=-177.56] died: Reptilian Brute was burnt to a crisp whilst fighting Danielcf37
-[18:17:34] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/7798, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=340.49, y=121.00, z=-187.02] died: Reptilian Brute withered away whilst fighting Danielcf37
-[18:17:37] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/7672, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=343.04, y=120.51, z=-179.82] died: death.attack.magic.item
-[18:17:37] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/7797, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=341.54, y=121.00, z=-189.70] died: Reptilian Brute withered away whilst fighting Danielcf37
-[18:17:43] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/8288, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=341.49, y=120.45, z=-177.56] died: Reptilian Abomination was slain by TioSkrollex using [Obsidian Hatchet]
-[18:17:50] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/8018, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=341.49, y=120.45, z=-177.56] died: Reptilian Brute was slain by TioSkrollex using [Obsidian Hatchet]
-[18:17:59] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/8247, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=341.49, y=120.45, z=-177.56] died: Reptilian Brute was slain by TioSkrollex using [Obsidian Hatchet]
-[18:18:16] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/8370, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=336.58, y=120.51, z=-185.17] died: Reptilian Brute was slain by Danielcf37 using [Bonebreaker]
-[18:18:18] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/8372, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=340.45, y=121.00, z=-176.30] died: Reptilian Brute was slain by Danielcf37 using [Bonebreaker]
-[18:18:29] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/8417, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=340.64, y=120.45, z=-181.16] died: Reptilian Abomination was slain by TioSkrollex using [Obsidian Hatchet]
-[18:18:30] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/7796, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=341.44, y=120.45, z=-181.06] died: Reptilian Brute was slain by TioSkrollex using [Obsidian Hatchet]
-[18:18:58] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/8248, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=341.84, y=121.00, z=-178.39] died: Reptilian Brute was slain by Danielcf37 using [Bonebreaker]
-[18:18:59] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/8481, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=341.10, y=121.00, z=-179.63] died: Reptilian Brute withered away whilst fighting TioSkrollex
-[18:19:04] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/8478, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=342.11, y=121.00, z=-175.61] died: Reptilian Brute was slain by Danielcf37 using [Bonebreaker]
-[18:19:11] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/7485, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=341.35, y=121.00, z=-176.98] died: Reptilian Brute was slain by Danielcf37 using [Arctic Wand]
-[18:19:23] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/8371, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=341.45, y=121.00, z=-183.65] died: Reptilian Brute was slain by TioSkrollex using [Obsidian Hatchet]
-[18:19:24] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/8609, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=341.50, y=121.00, z=-184.99] died: death.attack.magic.item
-[18:19:24] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/8608, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=341.21, y=121.00, z=-181.79] died: death.attack.magic.item
-[18:19:39] [Server thread/INFO]: Named entity bwv['☆ Reptilian Queen ☆'/7303, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=342.50, y=121.00, z=-220.01] died: ☆ Reptilian Queen ☆ was slain by Danielcf37 using [Skittering Longsword]
-[18:20:10] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/8842, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=342.17, y=120.45, z=-176.29] died: Reptilian Brute was slain by Danielcf37 using [Skittering Longsword]
-[18:20:11] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/8607, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=342.21, y=120.45, z=-176.49] died: Reptilian Brute was slain by Danielcf37 using [Skittering Longsword]
-[18:20:15] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/8016, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=342.39, y=121.00, z=-175.05] died: Reptilian Brute was slain by Danielcf37 using [Skittering Longsword]
-[18:20:26] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/7393, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=343.63, y=114.00, z=-184.66] died: Reptilian Brute was slain by TioSkrollex using [Obsidian Hatchet]
-[18:20:29] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/8841, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=341.82, y=121.00, z=-181.58] died: Reptilian Brute withered away whilst fighting Danielcf37
-[18:20:33] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/8479, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=338.49, y=114.00, z=-186.12] died: Reptilian Brute was doomed to fall
-[18:20:49] [Server thread/INFO]: TioSkrollex was blown up by Creeper
-[18:20:49] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=351, y=123, z=-159} gu{x=345, y=124, z=-158}
-[18:22:14] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/9461, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=342.51, y=121.00, z=-176.45] died: Reptilian Brute was slain by TioSkrollex using [Obsidian Hatchet]
-[18:22:16] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/9460, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=341.54, y=121.00, z=-178.34] died: Reptilian Brute was slain by TioSkrollex using [Obsidian Hatchet]
-[18:23:22] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/9695, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=341.90, y=133.00, z=-140.84] died: Reptilian Brute was slain by TioSkrollex using [Obsidian Hatchet]
-[18:24:26] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/9935, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=375.54, y=83.00, z=-167.48] died: Reptilian Abomination fell from a high place
-[18:24:48] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/9654, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=353.16, y=135.45, z=-179.93] died: Reptilian Brute was slain by Danielcf37 using [Cruel Broad Axe of Impaling]
-[18:24:52] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/9920, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=353.42, y=136.00, z=-178.58] died: Reptilian Abomination was slain by Danielcf37 using [Cruel Broad Axe of Impaling]
-[18:24:52] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/9924, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=354.75, y=136.00, z=-177.17] died: Reptilian Abomination was shot by Skeleton
-[18:24:59] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/9398, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=353.26, y=135.45, z=-179.76] died: Reptilian Abomination was burnt to a crisp whilst fighting Danielcf37
-[18:25:00] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/9653, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=353.16, y=135.45, z=-179.93] died: Reptilian Brute was burnt to a crisp whilst fighting Danielcf37
-[18:25:11] [Server thread/INFO]: TioSkrollex was blown up by Creeper
-[18:25:22] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/9400, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=352.85, y=135.45, z=-180.44] died: Reptilian Abomination was slain by Danielcf37 using [Cruel Broad Axe of Impaling]
-[18:26:41] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/9655, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=353.16, y=135.45, z=-179.93] died: Reptilian Brute was slain by TioSkrollex using [Magmablade]
-[18:27:04] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/9939, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=362.76, y=135.45, z=-167.54] died: Reptilian Abomination was shot by Skeleton
-[18:27:12] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/9937, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=356.10, y=135.45, z=-176.70] died: Reptilian Abomination was slain by Danielcf37 using [Cruel Broad Axe of Impaling]
-[18:27:35] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/10695, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=373.33, y=85.00, z=-157.87] died: Reptilian Brute fell from a high place
-[18:27:42] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/10697, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=363.35, y=136.00, z=-160.47] died: Reptilian Brute was slain by Danielcf37 using [Cruel Broad Axe of Impaling]
-[18:27:50] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/10696, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=375.65, y=136.00, z=-160.08] died: Reptilian Brute was slain by TioSkrollex using [Magmablade]
-[18:30:28] [Server thread/INFO]: Named entity bwv['☆ Reptilian Queen ☆'/7324, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=343.80, y=114.00, z=-184.46] died: ☆ Reptilian Queen ☆ was slain by TioSkrollex using [Magmablade]
-[18:31:23] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/11179, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=362.51, y=92.00, z=-162.02] died: Reptilian Brute was slain by TioSkrollex using [Magmablade]
-[18:31:41] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/11177, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=366.70, y=92.00, z=-160.03] died: Reptilian Brute was slain by TioSkrollex using [Magmablade]
-[18:32:16] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/11311, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=315.23, y=91.45, z=-131.16] died: Reptilian Abomination withered away whilst fighting Danielcf37
-[18:32:19] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/11313, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=316.71, y=92.00, z=-129.68] died: Reptilian Brute was slain by Danielcf37 using [Cruel Broad Axe of Impaling]
-[18:32:42] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/11447, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=316.80, y=92.00, z=-130.81] died: Reptilian Brute was slain by Danielcf37 using [Cruel Broad Axe of Impaling]
-[18:32:52] [Server thread/INFO]: Named entity bvo['Flying Creeper'/11476, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=336.65, y=128.85, z=-245.00] died: Flying Creeper was slain by TioSkrollex using [Magmablade]
-[18:32:59] [Server thread/INFO]: Named entity bvo['Flying Creeper'/11507, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=337.04, y=123.45, z=-251.01] died: Flying Creeper suffocated in a wall
-[18:33:33] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/11536, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=322.50, y=92.00, z=-141.38] died: Reptilian Brute withered away
-[18:34:36] [Server thread/INFO]: Named entity bvo['Flying Creeper'/11582, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=343.85, y=121.77, z=-244.77] died: Flying Creeper was blown up by Flying Creeper
-[18:36:15] [Server thread/INFO]: Named entity bvo['Flying Creeper'/11955, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=344.21, y=137.05, z=-257.96] died: Flying Creeper was slain by Danielcf37 using [Cruel Broad Axe of Impaling]
-[18:36:38] [Server thread/INFO]: Named entity bwv['☆ Reptilian Queen ☆'/11960, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=337.23, y=130.04, z=-243.19] died: ☆ Reptilian Queen ☆ was slain by Danielcf37
-[18:36:45] [Server thread/INFO]: Named entity bvo['Flying Creeper'/11985, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=339.38, y=158.85, z=-321.61] died: Flying Creeper suffocated in a wall
-[18:37:53] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/12243, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=366.36, y=135.59, z=-301.49] died: Reptilian Abomination was slain by Danielcf37 using [Cruel Broad Axe of Impaling]
-[18:38:11] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/12245, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=365.99, y=143.00, z=-307.95] died: Reptilian Abomination was slain by TioSkrollex using [Skittering Longsword]
-[18:38:12] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/12341, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=372.77, y=143.76, z=-301.84] died: Reptilian Abomination was killed whilst fighting Danielcf37
-[18:38:17] [Server thread/INFO]: Danielcf37 was doomed to fall by Reptilian Abomination
-[18:38:18] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/12343, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=374.25, y=143.06, z=-306.38] died: Reptilian Abomination was slain by TioSkrollex using [Skittering Longsword]
-[18:38:21] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/11994, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=376.27, y=143.00, z=-294.81] died: Reptilian Abomination withered away
-[18:38:55] [Server thread/INFO]: Named entity bvo['Flying Creeper'/12258, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=345.04, y=171.67, z=-316.25] died: Flying Creeper suffocated in a wall
-[18:38:56] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/12393, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=366.55, y=143.00, z=-294.99] died: Reptilian Abomination was slain by TioSkrollex using [Skittering Longsword]
-[18:39:18] [Server thread/INFO]: Named entity bvo['Flying Creeper'/12293, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=343.58, y=174.85, z=-306.31] died: Flying Creeper suffocated in a wall
-[18:39:22] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/12507, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=370.78, y=148.00, z=-296.14] died: Reptilian Abomination was slain by TioSkrollex using [Skittering Longsword]
-[18:39:27] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/12391, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=368.70, y=143.00, z=-295.54] died: Reptilian Abomination was burnt to a crisp whilst fighting TioSkrollex
-[18:39:28] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/12509, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=368.70, y=143.00, z=-297.54] died: Reptilian Abomination was burnt to a crisp whilst fighting TioSkrollex
-[18:39:28] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/12511, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=368.70, y=144.77, z=-298.63] died: Reptilian Abomination was burnt to a crisp whilst fighting TioSkrollex
-[18:39:37] [Server thread/INFO]: Named entity bwv['Reptilian Abomination'/12395, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=376.32, y=148.00, z=-298.31] died: Reptilian Abomination was slain by TioSkrollex using [Skittering Longsword]
-[18:40:09] [Server thread/INFO]: Named entity bvo['Flying Creeper'/12522, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=348.22, y=136.45, z=-295.60] died: Flying Creeper was blown up by Flying Creeper
-[18:40:30] [Server thread/INFO]: Named entity bvo['Flying Creeper'/12774, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=349.68, y=136.87, z=-301.25] died: Flying Creeper withered away
-[18:43:34] [Server thread/INFO]: Danielcf37 was doomed to fall by Phantom
-[18:46:11] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/14021, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-53.50, y=171.03, z=283.50]
-[18:50:18] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[18:50:23] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[18:50:25] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[18:50:28] [Server thread/ERROR]: Display entityNot a string
-[18:50:28] [Server thread/ERROR]: Display entityNot a string
-[18:50:28] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[18:50:33] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[18:50:33] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[18:50:33] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[18:50:34] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[18:50:34] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[18:50:34] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[18:50:36] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[18:50:36] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[18:50:36] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[18:50:48] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[18:50:48] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[18:50:48] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[18:51:50] [Server thread/INFO]: TioSkrollex lost connection: Disconnected
-[18:51:50] [Server thread/INFO]: TioSkrollex left the game
-[18:52:15] [Server thread/INFO]: RXJAAB[/127.167.181.41:36755] logged in with entity id 15131 at (411.13769715016696, 62.0, 431.92109997054104)
-[18:52:15] [Server thread/INFO]: RXJAAB joined the game
-[19:03:17] [Server thread/INFO]: RXJAAB lost connection: Disconnected
-[19:03:17] [Server thread/INFO]: RXJAAB left the game
-[19:03:35] [Server thread/INFO]: RXJAAB[/127.167.181.41:49551] logged in with entity id 16576 at (384.6802947796493, 101.0, 320.74604004623643)
-[19:03:35] [Server thread/INFO]: RXJAAB joined the game
+[01:55:17] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:55:21] [ServerMain/INFO]: Loaded 7 recipes
+[01:55:21] [ServerMain/INFO]: Loaded 1633 advancements
+[01:55:22] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[01:55:22] [Server thread/INFO]: Loading properties
+[01:55:22] [Server thread/INFO]: Default game type: SURVIVAL
+[01:55:22] [Server thread/INFO]: Generating keypair
+[01:55:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:55:22] [Server thread/INFO]: Using epoll channel type
+[01:55:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:55:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:55:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:55:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:55:23] [Server thread/INFO]: Preparing level "world"
+[01:55:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:55:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:55:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:55:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:55:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:55:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:55:27] [Worker-Main-3/INFO]: Preparing spawn area: 7%
+[01:55:27] [Worker-Main-2/INFO]: Preparing spawn area: 48%
+[01:55:28] [Server thread/INFO]: Time elapsed: 4844 ms
+[01:55:28] [Server thread/INFO]: Done (5.024s)! For help, type "help"
+[01:55:32] [Server thread/INFO]: Danielcf37[/127.133.49.52:58125] logged in with entity id 31 at (193.7837653655683, 152.0, 278.5966878267542)
+[01:55:32] [Server thread/INFO]: Danielcf37 joined the game
+[01:55:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3993ms or 79 ticks behind
+[01:55:33] [Server thread/WARN]: UUID of added entity already exists: bxe['Piglin'/32, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=659.50, y=5.00, z=508.50]
+[01:55:33] [Server thread/WARN]: UUID of added entity already exists: bga['Marker'/51, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=29999999.50, y=100.00, z=27115050.50]
+[01:56:25] [Server thread/INFO]: TioSkrollex[/127.54.56.198:58081] logged in with entity id 270 at (13.022528089425824, 171.0, 263.8401418098651)
+[01:56:25] [Server thread/INFO]: TioSkrollex joined the game
+[01:59:58] [Server thread/ERROR]: Display entityNot a string
+[01:59:58] [Server thread/ERROR]: Display entityNot a string
+[01:59:58] [Server thread/ERROR]: Display entityNot a string
+[01:59:59] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:110,cr_axe:1,cr_rarity:1,cr_sword:1,cr_tier:1,cr_upgrade:24,dis_upgrade:1,display:{Lore:['{"text":"Uncommon Upgrade Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"12","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"1","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Sword / Axe ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"+15% Base Attack Damage","color":"blue","bold":false,"italic":false}','{"text":"-10% Attack Speed","color":"red","bold":false,"italic":false}'],Name:'{"text":"Rune of Impact","color":"#269AFF","bold":true,"italic":false}'}}}
+[02:00:03] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:110,cr_axe:1,cr_rarity:1,cr_sword:1,cr_tier:1,cr_upgrade:24,dis_upgrade:1,display:{Lore:['{"text":"Uncommon Upgrade Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"12","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"1","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Sword / Axe ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"+15% Base Attack Damage","color":"blue","bold":false,"italic":false}','{"text":"-10% Attack Speed","color":"red","bold":false,"italic":false}'],Name:'{"text":"Rune of Impact","color":"#269AFF","bold":true,"italic":false}'}}}
+[02:00:16] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:110,cr_axe:1,cr_rarity:1,cr_sword:1,cr_tier:1,cr_upgrade:24,dis_upgrade:1,display:{Lore:['{"text":"Uncommon Upgrade Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"12","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"1","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Sword / Axe ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"+15% Base Attack Damage","color":"blue","bold":false,"italic":false}','{"text":"-10% Attack Speed","color":"red","bold":false,"italic":false}'],Name:'{"text":"Rune of Impact","color":"#269AFF","bold":true,"italic":false}'}}}
+[02:00:16] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:00:16] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:00:16] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:00:16] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:00:18] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:02:13] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:02:13] [Server thread/ERROR]: Display entityNot a string
+[02:02:13] [Server thread/ERROR]: Display entityNot a string
+[02:02:15] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:16,cr_axe:1,cr_modifier:31,cr_rarity:0,cr_tier:0,display:{Lore:['{"text":"Common Suffix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"10","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"0","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Axe ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','[{"text":"[Earth Spikes] ","color":"#D7E841","bold":true,"italic":false},{"text":"On critical strike, spend 20 mana","color":"#D5E876","bold":false,"italic":false}]','{"text":"to summon five earth spikes in front of you, dealing","color":"#D5E876","bold":false,"italic":false}','{"text":"8 damage and briefly staggering enemies.","color":"#D5E876","bold":false,"italic":false}'],Name:'{"text":"Rune of Impaling","color":"white","bold":true,"italic":false}'}}}
+[02:02:17] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:16,cr_axe:1,cr_modifier:31,cr_rarity:0,cr_tier:0,display:{Lore:['{"text":"Common Suffix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"10","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"0","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Axe ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','[{"text":"[Earth Spikes] ","color":"#D7E841","bold":true,"italic":false},{"text":"On critical strike, spend 20 mana","color":"#D5E876","bold":false,"italic":false}]','{"text":"to summon five earth spikes in front of you, dealing","color":"#D5E876","bold":false,"italic":false}','{"text":"8 damage and briefly staggering enemies.","color":"#D5E876","bold":false,"italic":false}'],Name:'{"text":"Rune of Impaling","color":"white","bold":true,"italic":false}'}}}
+[02:02:24] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:16,cr_axe:1,cr_modifier:31,cr_rarity:0,cr_tier:0,display:{Lore:['{"text":"Common Suffix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"10","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"0","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Axe ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','[{"text":"[Earth Spikes] ","color":"#D7E841","bold":true,"italic":false},{"text":"On critical strike, spend 20 mana","color":"#D5E876","bold":false,"italic":false}]','{"text":"to summon five earth spikes in front of you, dealing","color":"#D5E876","bold":false,"italic":false}','{"text":"8 damage and briefly staggering enemies.","color":"#D5E876","bold":false,"italic":false}'],Name:'{"text":"Rune of Impaling","color":"white","bold":true,"italic":false}'}}}
+[02:02:24] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:02:24] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:02:24] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:02:24] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:02:24] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:02:25] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:02:25] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:02:25] [Server thread/ERROR]: Display entityNot a string
+[02:02:25] [Server thread/ERROR]: Display entityNot a string
+[02:03:00] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:03:00] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:03:00] [Server thread/ERROR]: Display entityNot a string
+[02:03:06] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:13,cr_axe:1,cr_enchant:27,cr_rarity:2,cr_tier:1,display:{Lore:['{"text":"Rare Prefix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"16","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"1","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Axe ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"Sharpness II","color":"#BEDCFA","bold":true,"italic":false}','{"text":"Knockback IV","color":"#BEDCFA","bold":true,"italic":false}','{"text":"Unbreaking II","color":"#BEDCFA","bold":true,"italic":false}'],Name:'{"text":"Raging Rune","color":"#04BF36","bold":true,"italic":false}'}}}
+[02:03:06] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:03:06] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:03:06] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:03:06] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:03:06] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:03:06] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:03:07] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:03:07] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:03:07] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
