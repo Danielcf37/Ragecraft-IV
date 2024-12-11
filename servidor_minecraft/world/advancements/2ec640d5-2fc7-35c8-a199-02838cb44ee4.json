@@ -137,5 +137,11 @@
     },
     "done": true
   },
+  "challenges:slayer/challenger": {
+    "criteria": {
+      "requirement": "2024-12-10 02:12:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

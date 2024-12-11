@@ -1,89 +1,41 @@
-[01:55:17] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01:55:21] [ServerMain/INFO]: Loaded 7 recipes
-[01:55:21] [ServerMain/INFO]: Loaded 1633 advancements
-[01:55:22] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[01:55:22] [Server thread/INFO]: Loading properties
-[01:55:22] [Server thread/INFO]: Default game type: SURVIVAL
-[01:55:22] [Server thread/INFO]: Generating keypair
-[01:55:22] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:55:22] [Server thread/INFO]: Using epoll channel type
-[01:55:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:55:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:55:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:55:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:55:23] [Server thread/INFO]: Preparing level "world"
-[01:55:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:55:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:55:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[01:55:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:55:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:55:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:55:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:55:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:55:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:55:27] [Worker-Main-3/INFO]: Preparing spawn area: 7%
-[01:55:27] [Worker-Main-2/INFO]: Preparing spawn area: 48%
-[01:55:28] [Server thread/INFO]: Time elapsed: 4844 ms
-[01:55:28] [Server thread/INFO]: Done (5.024s)! For help, type "help"
-[01:55:32] [Server thread/INFO]: Danielcf37[/127.133.49.52:58125] logged in with entity id 31 at (193.7837653655683, 152.0, 278.5966878267542)
-[01:55:32] [Server thread/INFO]: Danielcf37 joined the game
-[01:55:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3993ms or 79 ticks behind
-[01:55:33] [Server thread/WARN]: UUID of added entity already exists: bxe['Piglin'/32, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=659.50, y=5.00, z=508.50]
-[01:55:33] [Server thread/WARN]: UUID of added entity already exists: bga['Marker'/51, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=29999999.50, y=100.00, z=27115050.50]
-[01:56:25] [Server thread/INFO]: TioSkrollex[/127.54.56.198:58081] logged in with entity id 270 at (13.022528089425824, 171.0, 263.8401418098651)
-[01:56:25] [Server thread/INFO]: TioSkrollex joined the game
-[01:59:58] [Server thread/ERROR]: Display entityNot a string
-[01:59:58] [Server thread/ERROR]: Display entityNot a string
-[01:59:58] [Server thread/ERROR]: Display entityNot a string
-[01:59:59] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:110,cr_axe:1,cr_rarity:1,cr_sword:1,cr_tier:1,cr_upgrade:24,dis_upgrade:1,display:{Lore:['{"text":"Uncommon Upgrade Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"12","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"1","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Sword / Axe ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"+15% Base Attack Damage","color":"blue","bold":false,"italic":false}','{"text":"-10% Attack Speed","color":"red","bold":false,"italic":false}'],Name:'{"text":"Rune of Impact","color":"#269AFF","bold":true,"italic":false}'}}}
-[02:00:03] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:110,cr_axe:1,cr_rarity:1,cr_sword:1,cr_tier:1,cr_upgrade:24,dis_upgrade:1,display:{Lore:['{"text":"Uncommon Upgrade Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"12","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"1","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Sword / Axe ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"+15% Base Attack Damage","color":"blue","bold":false,"italic":false}','{"text":"-10% Attack Speed","color":"red","bold":false,"italic":false}'],Name:'{"text":"Rune of Impact","color":"#269AFF","bold":true,"italic":false}'}}}
-[02:00:16] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:110,cr_axe:1,cr_rarity:1,cr_sword:1,cr_tier:1,cr_upgrade:24,dis_upgrade:1,display:{Lore:['{"text":"Uncommon Upgrade Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"12","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"1","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Sword / Axe ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"+15% Base Attack Damage","color":"blue","bold":false,"italic":false}','{"text":"-10% Attack Speed","color":"red","bold":false,"italic":false}'],Name:'{"text":"Rune of Impact","color":"#269AFF","bold":true,"italic":false}'}}}
-[02:00:16] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[02:00:16] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[02:00:16] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[02:00:16] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[02:00:18] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[02:02:13] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[02:02:13] [Server thread/ERROR]: Display entityNot a string
-[02:02:13] [Server thread/ERROR]: Display entityNot a string
-[02:02:15] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:16,cr_axe:1,cr_modifier:31,cr_rarity:0,cr_tier:0,display:{Lore:['{"text":"Common Suffix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"10","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"0","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Axe ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','[{"text":"[Earth Spikes] ","color":"#D7E841","bold":true,"italic":false},{"text":"On critical strike, spend 20 mana","color":"#D5E876","bold":false,"italic":false}]','{"text":"to summon five earth spikes in front of you, dealing","color":"#D5E876","bold":false,"italic":false}','{"text":"8 damage and briefly staggering enemies.","color":"#D5E876","bold":false,"italic":false}'],Name:'{"text":"Rune of Impaling","color":"white","bold":true,"italic":false}'}}}
-[02:02:17] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:16,cr_axe:1,cr_modifier:31,cr_rarity:0,cr_tier:0,display:{Lore:['{"text":"Common Suffix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"10","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"0","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Axe ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','[{"text":"[Earth Spikes] ","color":"#D7E841","bold":true,"italic":false},{"text":"On critical strike, spend 20 mana","color":"#D5E876","bold":false,"italic":false}]','{"text":"to summon five earth spikes in front of you, dealing","color":"#D5E876","bold":false,"italic":false}','{"text":"8 damage and briefly staggering enemies.","color":"#D5E876","bold":false,"italic":false}'],Name:'{"text":"Rune of Impaling","color":"white","bold":true,"italic":false}'}}}
-[02:02:24] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:16,cr_axe:1,cr_modifier:31,cr_rarity:0,cr_tier:0,display:{Lore:['{"text":"Common Suffix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"10","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"0","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Axe ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','[{"text":"[Earth Spikes] ","color":"#D7E841","bold":true,"italic":false},{"text":"On critical strike, spend 20 mana","color":"#D5E876","bold":false,"italic":false}]','{"text":"to summon five earth spikes in front of you, dealing","color":"#D5E876","bold":false,"italic":false}','{"text":"8 damage and briefly staggering enemies.","color":"#D5E876","bold":false,"italic":false}'],Name:'{"text":"Rune of Impaling","color":"white","bold":true,"italic":false}'}}}
-[02:02:24] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[02:02:24] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[02:02:24] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[02:02:24] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[02:02:24] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[02:02:25] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[02:02:25] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[02:02:25] [Server thread/ERROR]: Display entityNot a string
-[02:02:25] [Server thread/ERROR]: Display entityNot a string
-[02:03:00] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[02:03:00] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[02:03:00] [Server thread/ERROR]: Display entityNot a string
-[02:03:06] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:13,cr_axe:1,cr_enchant:27,cr_rarity:2,cr_tier:1,display:{Lore:['{"text":"Rare Prefix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"16","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"1","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Axe ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"Sharpness II","color":"#BEDCFA","bold":true,"italic":false}','{"text":"Knockback IV","color":"#BEDCFA","bold":true,"italic":false}','{"text":"Unbreaking II","color":"#BEDCFA","bold":true,"italic":false}'],Name:'{"text":"Raging Rune","color":"#04BF36","bold":true,"italic":false}'}}}
-[02:03:06] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[02:03:06] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[02:03:06] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[02:03:06] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[02:03:06] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[02:03:06] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
-[02:03:07] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[02:03:07] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[02:03:07] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
-[02:05:23] [Server thread/INFO]: Named entity bwv['Reptilian Brute'/2445, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=377.48, y=92.00, z=-205.28] died: Reptilian Brute was slain by TioSkrollex using [Magmablade]
-[02:08:49] [Server thread/INFO]: Named entity bwv['Jungle Golem'/3146, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=32.11, y=67.00, z=-304.18] died: Jungle Golem was slain by Danielcf37 using [Raging Tomahawk of Impaling]
-[02:08:55] [Server thread/INFO]: Named entity bwv['Jungle Rager'/3147, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=27.50, y=65.23, z=-311.81] died: Jungle Rager withered away
-[02:08:58] [Server thread/INFO]: Named entity bwv['Jungle Golem'/3144, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=29.71, y=65.00, z=-315.65] died: Jungle Golem was slain by Danielcf37 using [Raging Tomahawk of Impaling]
-[02:09:07] [Server thread/INFO]: Named entity bwn['☆ Spitting Spider ☆'/3164, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=48.14, y=62.55, z=-307.06] died: ☆ Spitting Spider ☆ was slain by Danielcf37 using [Raging Tomahawk of Impaling]
-[02:09:13] [Server thread/INFO]: Named entity bwv['Jungle Golem'/3302, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=40.45, y=62.04, z=-313.58] died: Jungle Golem was slain by Danielcf37 using [Raging Tomahawk of Impaling]
-[02:09:16] [Server thread/INFO]: Named entity bwv['Jungle Rager'/3303, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=37.61, y=62.00, z=-313.74] died: Jungle Rager was slain by Danielcf37 using [Raging Tomahawk of Impaling]
-[02:09:45] [Server thread/INFO]: Named entity bwv['Jungle Golem'/3434, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=35.74, y=67.00, z=-302.54] died: Jungle Golem was slain by Danielcf37 using [Raging Tomahawk of Impaling]
-[02:10:22] [Server thread/INFO]: Named entity bwv['Jungle Golem'/3300, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=48.53, y=62.00, z=-311.24] died: Jungle Golem was slain by Danielcf37 using [Raging Tomahawk of Impaling]
-[02:10:27] [Server thread/INFO]: Named entity bwv['Jungle Rager'/3301, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=42.30, y=62.00, z=-322.06] died: Jungle Rager was slain by Danielcf37 using [Raging Tomahawk of Impaling]
-[02:11:00] [Server thread/INFO]: Named entity bwv['Jungle Rager'/3435, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=54.50, y=62.00, z=-309.00] died: Jungle Rager was slain by Danielcf37 using [Raging Tomahawk of Impaling]
-[02:11:02] [Server thread/INFO]: Named entity bvq['Jungle Rager'/3457, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=52.54, y=62.02, z=-311.15] died: Jungle Rager was slain by Danielcf37 using [Raging Tomahawk of Impaling]
-[02:12:28] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=90, y=94, z=-350} gu{x=90, y=93, z=-351}
-[02:12:30] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=90, y=93, z=-352} gu{x=90, y=93, z=-351}
-[02:12:38] [Server thread/INFO]: TioSkrollex has completed the challenge [Challenger]
-[02:12:38] [Server thread/INFO]: Named entity bwn['☆ Spitting Spider ☆'/3833, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=91.14, y=93.31, z=-345.24] died: ☆ Spitting Spider ☆ withered away whilst fighting TioSkrollex
+[02:20:24] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:20:28] [ServerMain/INFO]: Loaded 7 recipes
+[02:20:28] [ServerMain/INFO]: Loaded 1633 advancements
+[02:20:29] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[02:20:29] [Server thread/INFO]: Loading properties
+[02:20:29] [Server thread/INFO]: Default game type: SURVIVAL
+[02:20:29] [Server thread/INFO]: Generating keypair
+[02:20:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:20:29] [Server thread/INFO]: Using epoll channel type
+[02:20:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:20:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:20:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:20:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:20:29] [Server thread/INFO]: Preparing level "world"
+[02:20:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:20:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:20:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:20:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:20:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:20:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:20:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:20:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:20:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:20:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:20:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:20:34] [Worker-Main-3/INFO]: Preparing spawn area: 5%
+[02:20:35] [Worker-Main-2/INFO]: Preparing spawn area: 53%
+[02:20:35] [Server thread/INFO]: Time elapsed: 5897 ms
+[02:20:35] [Server thread/INFO]: Done (6.096s)! For help, type "help"
+[02:20:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3033ms or 60 ticks behind
+[02:20:39] [Server thread/WARN]: UUID of added entity already exists: bxe['Piglin'/31, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=659.50, y=5.00, z=508.50]
+[02:20:39] [Server thread/WARN]: UUID of added entity already exists: bga['Marker'/46, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=29999999.50, y=100.00, z=27115050.50]
+[02:23:35] [Server thread/INFO]: Danielcf37[/127.133.49.52:56845] logged in with entity id 58 at (156.64693422444262, 124.0, -361.99693221686005)
+[02:23:35] [Server thread/INFO]: Danielcf37 joined the game
+[02:23:46] [Server thread/INFO]: Named entity bwf['Bandit'/77, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=167.81, y=122.00, z=-363.50] died: Bandit was slain by Danielcf37 using [Raging Tomahawk of Impaling]
+[02:23:50] [Server thread/INFO]: Named entity bwf['Bandit'/61, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=174.82, y=118.61, z=-353.58] died: Bandit was slain by Danielcf37 using [Raging Tomahawk of Impaling]
+[02:23:56] [Server thread/INFO]: Named entity bwf['Bandit'/73, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=166.34, y=119.00, z=-354.67] died: Bandit was slain by Danielcf37 using [Raging Tomahawk of Impaling]
+[02:24:49] [Server thread/INFO]: Named entity bwf['Bandit'/350, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=178.70, y=126.50, z=-336.31] died: Bandit was slain by Danielcf37 using [Raging Tomahawk of Impaling]
+[02:25:45] [Server thread/INFO]: Named entity bwf['Bandit'/501, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=143.79, y=131.00, z=-375.40] died: Bandit was slain by Danielcf37 using [Raging Tomahawk of Impaling]
+[02:26:05] [Server thread/INFO]: Named entity bwf['Bandit'/552, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=144.00, y=130.00, z=-368.01] died: Bandit was slain by Danielcf37 using [Raging Tomahawk of Impaling]
+[02:29:06] [Server thread/INFO]: Named entity bwf['Bandit'/953, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=125.29, y=153.00, z=-377.49] died: Bandit was slain by Danielcf37 using [Raging Tomahawk of Impaling]
