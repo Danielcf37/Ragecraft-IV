@@ -55,3 +55,7 @@
 [03:03:46] [Server thread/INFO]: TioSkrollex[/127.54.56.198:59045] logged in with entity id 5393 at (139.30329786794255, 180.41999998688698, -310.80425812099645)
 [03:03:46] [Server thread/INFO]: TioSkrollex joined the game
 [03:05:54] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/5669, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-53.50, y=171.03, z=283.50]
+[03:16:34] [Server thread/INFO]: TioSkrollex fell from a high place
+[03:17:29] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=127, y=153, z=-379} gu{x=130, y=153, z=-379}
+[03:18:38] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=113, y=156, z=-389} gu{x=112, y=155, z=-388}
+[03:19:43] [Server thread/INFO]: Danielcf37 has completed the challenge [Pioneer]
