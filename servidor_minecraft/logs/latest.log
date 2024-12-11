@@ -39,3 +39,13 @@
 [02:25:45] [Server thread/INFO]: Named entity bwf['Bandit'/501, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=143.79, y=131.00, z=-375.40] died: Bandit was slain by Danielcf37 using [Raging Tomahawk of Impaling]
 [02:26:05] [Server thread/INFO]: Named entity bwf['Bandit'/552, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=144.00, y=130.00, z=-368.01] died: Bandit was slain by Danielcf37 using [Raging Tomahawk of Impaling]
 [02:29:06] [Server thread/INFO]: Named entity bwf['Bandit'/953, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=125.29, y=153.00, z=-377.49] died: Bandit was slain by Danielcf37 using [Raging Tomahawk of Impaling]
+[02:31:30] [Server thread/INFO]: blackfix_38[/127.54.56.198:49245] logged in with entity id 1345 at (289.69999998807907, 126.5, -41.80801562971443)
+[02:31:30] [Server thread/INFO]: blackfix_38 joined the game
+[02:31:42] [Server thread/INFO]: blackfix_38 lost connection: Disconnected
+[02:31:42] [Server thread/INFO]: blackfix_38 left the game
+[02:33:38] [Server thread/INFO]: TioSkrollex[/127.54.56.198:41087] logged in with entity id 1679 at (176.94151562615136, 125.0, -344.9121820425573)
+[02:33:38] [Server thread/INFO]: TioSkrollex joined the game
+[02:33:50] [Server thread/INFO]: Named entity bwf['Bandit'/1689, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=179.54, y=126.00, z=-338.30] died: Bandit was slain by TioSkrollex using [Magmablade]
+[02:34:13] [Server thread/INFO]: Named entity bwf['Bandit'/1756, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=174.14, y=126.00, z=-338.30] died: Bandit was slain by TioSkrollex using [Magmablade]
+[02:34:15] [Server thread/INFO]: Named entity bwf['Bandit'/1758, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=173.30, y=125.00, z=-342.40] died: Bandit was burnt to a crisp whilst fighting TioSkrollex
+[02:34:16] [Server thread/INFO]: Named entity bwf['Bandit'/1757, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=175.53, y=124.77, z=-346.31] died: Bandit was burnt to a crisp whilst fighting TioSkrollex
