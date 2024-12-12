@@ -196,3 +196,25 @@
 [03:19:45] [Server thread/INFO]: Named entity bvo['Aquatic Creeper'/6971, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=126.07, y=165.00, z=-478.61] died: Aquatic Creeper was impaled by TioSkrollex
 [03:19:51] [Server thread/INFO]: Named entity bvo['Aquatic Creeper'/7093, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=125.97, y=158.57, z=-487.06] died: Aquatic Creeper withered away whilst fighting TioSkrollex
 [03:20:06] [Server thread/INFO]: Named entity bvo['Aquatic Creeper'/7285, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=110.47, y=116.67, z=-462.33] died: Aquatic Creeper withered away whilst fighting TioSkrollex
+[03:25:18] [Server thread/INFO]: TioSkrollex lost connection: Disconnected
+[03:25:18] [Server thread/INFO]: TioSkrollex left the game
+[03:25:34] [Server thread/INFO]: TioSkrollex[/127.54.56.198:50843] logged in with entity id 8479 at (131.82427189306458, 193.0, -546.8473183027386)
+[03:25:34] [Server thread/INFO]: TioSkrollex joined the game
+[03:27:04] [Server thread/INFO]: Named entity bwt['☆ Animated Crystal ☆'/8798, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=83.92, y=180.30, z=-582.18] died: ☆ Animated Crystal ☆ was slain by Danielcf37 using [Decorated Trident]
+[03:27:09] [Server thread/INFO]: Named entity bwk['Small Animated Crystal'/8859, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=85.70, y=182.00, z=-580.62] died: Small Animated Crystal was slain by Danielcf37 using [Decorated Trident]
+[03:27:13] [Server thread/INFO]: Named entity bwk['Small Animated Crystal'/8861, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=89.64, y=182.00, z=-579.35] died: Small Animated Crystal was impaled by Danielcf37
+[03:27:14] [Server thread/INFO]: Named entity bvz['Tiny Animated Crystal'/8891, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=91.45, y=182.00, z=-578.18] died: Tiny Animated Crystal withered away
+[03:27:14] [Server thread/INFO]: Named entity bvz['Tiny Animated Crystal'/8890, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=90.18, y=182.00, z=-578.62] died: Tiny Animated Crystal withered away
+[03:27:15] [Server thread/INFO]: Named entity bvz['Tiny Animated Crystal'/8900, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=94.13, y=182.00, z=-577.51] died: Tiny Animated Crystal withered away whilst fighting Danielcf37
+[03:27:16] [Server thread/INFO]: Named entity bvz['Tiny Animated Crystal'/8901, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=92.07, y=182.00, z=-577.55] died: Tiny Animated Crystal withered away whilst fighting Danielcf37
+[03:28:45] [Server thread/INFO]: Named entity bvo['Aquatic Creeper'/9407, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=36.34, y=122.00, z=-392.55] died: death.attack.magic.item
+[03:28:45] [Server thread/INFO]: Named entity bwv['Prismarine Guardian'/9396, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=37.34, y=121.00, z=-393.52] died: death.attack.magic.item
+[03:29:12] [Server thread/INFO]: Named entity bwv['Prismarine Guardian'/9395, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=39.64, y=122.00, z=-391.22] died: Prismarine Guardian was slain by Danielcf37 using [Decorated Trident]
+[03:29:35] [Server thread/INFO]: Named entity bvo['Aquatic Creeper'/9549, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=24.46, y=120.00, z=-397.46] died: Aquatic Creeper was slain by TioSkrollex using [Magmablade]
+[03:30:33] [Server thread/INFO]: TioSkrollex was blown up by Aquatic Creeper
+[03:30:49] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=13, y=123, z=-404} gu{x=12, y=123, z=-405}
+[03:32:45] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/10104, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-4.50, y=109.00, z=-472.49] died: Drowned Hunter was impaled by Danielcf37
+[03:33:38] [Server thread/INFO]: Named entity bvy['Guardian'/10221, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-12.55, y=111.95, z=-481.50] died: Guardian withered away whilst fighting TioSkrollex
+[03:34:06] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/10248, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-6.56, y=110.36, z=-457.95] died: Drowned Hunter was impaled by Danielcf37
+[03:34:41] [Server thread/INFO]: TioSkrollex lost connection: Disconnected
+[03:34:41] [Server thread/INFO]: TioSkrollex left the game
