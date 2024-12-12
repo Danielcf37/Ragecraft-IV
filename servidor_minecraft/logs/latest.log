@@ -56,3 +56,9 @@
 [02:43:28] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
 [02:43:29] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
 [02:43:29] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:46:39] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=96, y=170, z=308} gu{x=96, y=168, z=307}
+[02:46:39] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=96, y=170, z=308} gu{x=96, y=168, z=307}
+[02:46:40] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=96, y=170, z=308} gu{x=96, y=168, z=307}
+[02:53:13] [Server thread/INFO]: Named entity bwv['Prismarine Guardian'/2642, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=81.32, y=115.00, z=-421.70] died: death.attack.magic.item
+[02:53:18] [Server thread/INFO]: Named entity bwv['Prismarine Guardian'/2641, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=76.33, y=115.00, z=-421.67] died: Prismarine Guardian was slain by Danielcf37 using [Thunderfist]
+[02:53:48] [Server thread/INFO]: Danielcf37 was shot by Skeleton
