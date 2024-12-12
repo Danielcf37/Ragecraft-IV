@@ -1,61 +1,58 @@
-[02:20:24] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02:20:28] [ServerMain/INFO]: Loaded 7 recipes
-[02:20:28] [ServerMain/INFO]: Loaded 1633 advancements
-[02:20:29] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[02:20:29] [Server thread/INFO]: Loading properties
-[02:20:29] [Server thread/INFO]: Default game type: SURVIVAL
-[02:20:29] [Server thread/INFO]: Generating keypair
-[02:20:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:20:29] [Server thread/INFO]: Using epoll channel type
-[02:20:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:20:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:20:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:20:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:20:29] [Server thread/INFO]: Preparing level "world"
-[02:20:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:20:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:20:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:20:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:20:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:20:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:20:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:20:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:20:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:20:33] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[02:20:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[02:20:34] [Worker-Main-3/INFO]: Preparing spawn area: 5%
-[02:20:35] [Worker-Main-2/INFO]: Preparing spawn area: 53%
-[02:20:35] [Server thread/INFO]: Time elapsed: 5897 ms
-[02:20:35] [Server thread/INFO]: Done (6.096s)! For help, type "help"
-[02:20:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3033ms or 60 ticks behind
-[02:20:39] [Server thread/WARN]: UUID of added entity already exists: bxe['Piglin'/31, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=659.50, y=5.00, z=508.50]
-[02:20:39] [Server thread/WARN]: UUID of added entity already exists: bga['Marker'/46, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=29999999.50, y=100.00, z=27115050.50]
-[02:23:35] [Server thread/INFO]: Danielcf37[/127.133.49.52:56845] logged in with entity id 58 at (156.64693422444262, 124.0, -361.99693221686005)
-[02:23:35] [Server thread/INFO]: Danielcf37 joined the game
-[02:23:46] [Server thread/INFO]: Named entity bwf['Bandit'/77, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=167.81, y=122.00, z=-363.50] died: Bandit was slain by Danielcf37 using [Raging Tomahawk of Impaling]
-[02:23:50] [Server thread/INFO]: Named entity bwf['Bandit'/61, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=174.82, y=118.61, z=-353.58] died: Bandit was slain by Danielcf37 using [Raging Tomahawk of Impaling]
-[02:23:56] [Server thread/INFO]: Named entity bwf['Bandit'/73, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=166.34, y=119.00, z=-354.67] died: Bandit was slain by Danielcf37 using [Raging Tomahawk of Impaling]
-[02:24:49] [Server thread/INFO]: Named entity bwf['Bandit'/350, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=178.70, y=126.50, z=-336.31] died: Bandit was slain by Danielcf37 using [Raging Tomahawk of Impaling]
-[02:25:45] [Server thread/INFO]: Named entity bwf['Bandit'/501, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=143.79, y=131.00, z=-375.40] died: Bandit was slain by Danielcf37 using [Raging Tomahawk of Impaling]
-[02:26:05] [Server thread/INFO]: Named entity bwf['Bandit'/552, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=144.00, y=130.00, z=-368.01] died: Bandit was slain by Danielcf37 using [Raging Tomahawk of Impaling]
-[02:29:06] [Server thread/INFO]: Named entity bwf['Bandit'/953, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=125.29, y=153.00, z=-377.49] died: Bandit was slain by Danielcf37 using [Raging Tomahawk of Impaling]
-[02:31:30] [Server thread/INFO]: blackfix_38[/127.54.56.198:49245] logged in with entity id 1345 at (289.69999998807907, 126.5, -41.80801562971443)
-[02:31:30] [Server thread/INFO]: blackfix_38 joined the game
-[02:31:42] [Server thread/INFO]: blackfix_38 lost connection: Disconnected
-[02:31:42] [Server thread/INFO]: blackfix_38 left the game
-[02:33:38] [Server thread/INFO]: TioSkrollex[/127.54.56.198:41087] logged in with entity id 1679 at (176.94151562615136, 125.0, -344.9121820425573)
-[02:33:38] [Server thread/INFO]: TioSkrollex joined the game
-[02:33:50] [Server thread/INFO]: Named entity bwf['Bandit'/1689, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=179.54, y=126.00, z=-338.30] died: Bandit was slain by TioSkrollex using [Magmablade]
-[02:34:13] [Server thread/INFO]: Named entity bwf['Bandit'/1756, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=174.14, y=126.00, z=-338.30] died: Bandit was slain by TioSkrollex using [Magmablade]
-[02:34:15] [Server thread/INFO]: Named entity bwf['Bandit'/1758, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=173.30, y=125.00, z=-342.40] died: Bandit was burnt to a crisp whilst fighting TioSkrollex
-[02:34:16] [Server thread/INFO]: Named entity bwf['Bandit'/1757, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=175.53, y=124.77, z=-346.31] died: Bandit was burnt to a crisp whilst fighting TioSkrollex
-[02:56:40] [Server thread/INFO]: TioSkrollex lost connection: Disconnected
-[02:56:40] [Server thread/INFO]: TioSkrollex left the game
-[02:56:40] [Server thread/WARN]: handleDisconnection() called twice
-[03:03:46] [Server thread/INFO]: TioSkrollex[/127.54.56.198:59045] logged in with entity id 5393 at (139.30329786794255, 180.41999998688698, -310.80425812099645)
-[03:03:46] [Server thread/INFO]: TioSkrollex joined the game
-[03:05:54] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/5669, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-53.50, y=171.03, z=283.50]
-[03:16:34] [Server thread/INFO]: TioSkrollex fell from a high place
-[03:17:29] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=127, y=153, z=-379} gu{x=130, y=153, z=-379}
-[03:18:38] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=113, y=156, z=-389} gu{x=112, y=155, z=-388}
-[03:19:43] [Server thread/INFO]: Danielcf37 has completed the challenge [Pioneer]
+[02:34:18] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:34:23] [ServerMain/INFO]: Loaded 7 recipes
+[02:34:23] [ServerMain/INFO]: Loaded 1633 advancements
+[02:34:23] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[02:34:23] [Server thread/INFO]: Loading properties
+[02:34:23] [Server thread/INFO]: Default game type: SURVIVAL
+[02:34:23] [Server thread/INFO]: Generating keypair
+[02:34:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:34:24] [Server thread/INFO]: Using epoll channel type
+[02:34:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:34:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:34:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:34:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:34:24] [Server thread/INFO]: Preparing level "world"
+[02:34:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:34:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:34:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:34:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:34:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:34:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:34:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:34:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:34:28] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:34:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:34:28] [Worker-Main-2/INFO]: Preparing spawn area: 21%
+[02:34:29] [Worker-Main-2/INFO]: Preparing spawn area: 78%
+[02:34:29] [Server thread/INFO]: Time elapsed: 5154 ms
+[02:34:29] [Server thread/INFO]: Done (5.307s)! For help, type "help"
+[02:34:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2897ms or 57 ticks behind
+[02:34:33] [Server thread/WARN]: UUID of added entity already exists: bxe['Piglin'/31, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=659.50, y=5.00, z=508.50]
+[02:34:33] [Server thread/WARN]: UUID of added entity already exists: bga['Marker'/52, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=29999999.50, y=100.00, z=27115050.50]
+[02:35:13] [Server thread/INFO]: TioSkrollex[/127.54.56.198:52453] logged in with entity id 58 at (20.61304861249479, 170.0, 269.43212178782727)
+[02:35:13] [Server thread/INFO]: TioSkrollex joined the game
+[02:35:33] [Server thread/INFO]: Danielcf37[/127.133.49.52:48829] logged in with entity id 145 at (7.732857572983193, 170.0, 265.3299765416948)
+[02:35:33] [Server thread/INFO]: Danielcf37 joined the game
+[02:39:34] [Server thread/ERROR]: Display entityNot a string
+[02:39:34] [Server thread/ERROR]: Display entityNot a string
+[02:39:34] [Server thread/ERROR]: Display entityNot a string
+[02:39:36] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:10,cr_boots:1,cr_modifier:80,cr_rarity:1,cr_tier:1,display:{Lore:['{"text":"Uncommon Suffix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"15","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"1","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Boots ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','[{"text":"[Arcane Celerity] ","color":"#C9AFD6","bold":true,"italic":false},{"text":"You have Speed I","color":"#A38EAD","bold":false,"italic":false}]','{"text":"while your mana pool is full.","color":"#A38EAD","bold":false,"italic":false}'],Name:'{"text":"Rune of Celerity","color":"#269AFF","bold":true,"italic":false}'}}}
+[02:42:04] [Server thread/ERROR]: Display entityNot a string
+[02:42:04] [Server thread/ERROR]: Display entityNot a string
+[02:42:09] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:10,cr_boots:1,cr_modifier:80,cr_rarity:1,cr_tier:1,display:{Lore:['{"text":"Uncommon Suffix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"15","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"1","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Boots ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','[{"text":"[Arcane Celerity] ","color":"#C9AFD6","bold":true,"italic":false},{"text":"You have Speed I","color":"#A38EAD","bold":false,"italic":false}]','{"text":"while your mana pool is full.","color":"#A38EAD","bold":false,"italic":false}'],Name:'{"text":"Rune of Celerity","color":"#269AFF","bold":true,"italic":false}'}}}
+[02:42:09] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:42:09] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:42:09] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:42:09] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:42:36] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:43:21] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:43:21] [Server thread/ERROR]: Display entityNot a string
+[02:43:21] [Server thread/ERROR]: Display entityNot a string
+[02:43:28] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:12,cr_boots:1,cr_chestplate:1,cr_enchant:154,cr_helmet:1,cr_leggings:1,cr_rarity:1,display:{Lore:['{"text":"Uncommon Prefix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"4","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"0","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"any Armor ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"Protection I","color":"#BEDCFA","bold":true,"italic":false}','{"text":"Unbreaking III","color":"#BEDCFA","bold":true,"italic":false}'],Name:'{"text":"Hardened Rune","color":"#269AFF","bold":true,"italic":false}'}}}
+[02:43:28] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:43:28] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:43:28] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:43:28] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:43:28] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[02:43:29] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[02:43:29] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
