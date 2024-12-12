@@ -106,3 +106,93 @@
 [03:03:48] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/4121, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=14.74, y=115.01, z=-442.72] died: Drowned Hunter was impaled by Danielcf37
 [03:03:58] [Server thread/INFO]: Named entity bwv['Prismarine Guardian'/4113, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=24.49, y=115.26, z=-445.49] died: Prismarine Guardian was impaled by Danielcf37
 [03:04:06] [Server thread/INFO]: Named entity bvo['Aquatic Creeper'/4132, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=23.24, y=120.00, z=-440.84] died: Aquatic Creeper was slain by Danielcf37 using [Decorated Trident]
+[03:05:15] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/4205, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=21.52, y=110.88, z=-446.68] died: death.attack.magic.item
+[03:05:15] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/4228, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=21.72, y=112.41, z=-447.88] died: Drowned Hunter was killed whilst fighting Danielcf37
+[03:05:25] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/4255, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=14.01, y=115.00, z=-451.69] died: Drowned Hunter was impaled by Danielcf37
+[03:05:50] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/4342, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=17.55, y=112.00, z=-444.48] died: Drowned Hunter was impaled by Danielcf37
+[03:06:13] [Server thread/INFO]: Named entity bwv['Prismarine Guardian'/4338, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=30.80, y=113.26, z=-488.49] died: Prismarine Guardian withered away
+[03:06:31] [Server thread/INFO]: Named entity bvo['Aquatic Creeper'/4409, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=25.76, y=118.50, z=-481.80] died: Aquatic Creeper was shot by Danielcf37 using [Ornate Bow of Healing]
+[03:06:32] [Server thread/INFO]: Named entity bvo['Aquatic Creeper'/4411, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=29.89, y=119.00, z=-481.50] died: Aquatic Creeper was shot by Danielcf37 using [Ornate Bow of Healing]
+[03:06:36] [Server thread/INFO]: Named entity bwv['Prismarine Guardian'/4419, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=72.80, y=115.00, z=-469.23] died: Prismarine Guardian was blown up by Aquatic Creeper
+[03:06:48] [Server thread/INFO]: Named entity bwv['Prismarine Guardian'/4418, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=70.36, y=116.11, z=-465.54] died: Prismarine Guardian withered away
+[03:07:32] [Server thread/INFO]: Named entity bvo['Aquatic Creeper'/4528, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=76.75, y=122.06, z=-465.53] died: Aquatic Creeper withered away whilst fighting TioSkrollex
+[03:07:34] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/4423, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=73.28, y=115.56, z=-464.90] died: Drowned Hunter was impaled by Danielcf37
+[03:09:06] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=166, y=117, z=-456} gu{x=167, y=117, z=-456}
+[03:09:27] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/4590, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=81.28, y=113.88, z=-476.70] died: Drowned Hunter was killed by magic
+[03:09:33] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/4612, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=80.30, y=113.88, z=-474.30] died: Drowned Hunter was impaled by Danielcf37
+[03:09:35] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=138, y=118, z=-492} gu{x=139, y=119, z=-492}
+[03:09:36] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/4705, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=79.30, y=115.00, z=-475.27] died: Drowned Hunter was impaled by Danielcf37
+[03:09:38] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/4657, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=80.30, y=114.46, z=-476.68] died: Drowned Hunter was impaled by Danielcf37
+[03:09:41] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/4518, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=84.00, y=115.00, z=-473.40] died: Drowned Hunter was impaled by Danielcf37
+[03:09:54] [Server thread/INFO]: Danielcf37 was slain by Prismarine Guardian
+[03:09:54] [Server thread/INFO]: Named entity bwv['Prismarine Guardian'/4514, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=74.98, y=116.03, z=-467.28] died: Prismarine Guardian was killed by [Decorated Trident] trying to hurt Danielcf37
+[03:09:56] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/4639, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=145.34, y=112.00, z=-488.63] died: Drowned Hunter withered away
+[03:10:13] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/4678, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=144.43, y=111.00, z=-481.86] died: Drowned Hunter withered away
+[03:10:38] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=146, y=109, z=-470} gu{x=146, y=110, z=-470}
+[03:11:02] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/4996, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=149.69, y=112.12, z=-479.15] died: Drowned Hunter was impaled by TioSkrollex
+[03:11:15] [Server thread/INFO]: TioSkrollex was impaled by Drowned Hunter
+[03:12:33] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=133, y=111, z=-471} gu{x=133, y=110, z=-471}
+[03:12:33] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=132, y=110, z=-471} gu{x=133, y=110, z=-471}
+[03:12:48] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/5112, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=143.41, y=110.43, z=-466.86] died: Drowned Hunter withered away
+[03:13:27] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/5667, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=163.56, y=110.11, z=-469.15] died: death.attack.magic.item
+[03:13:38] [Server thread/INFO]: Named entity bvy['Guardian'/5765, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=164.04, y=112.10, z=-471.46] died: Guardian withered away whilst fighting TioSkrollex
+[03:13:55] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=160, y=113, z=-474} gu{x=162, y=113, z=-472}
+[03:13:55] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=160, y=113, z=-474} gu{x=162, y=113, z=-472}
+[03:13:55] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=160, y=113, z=-474} gu{x=162, y=113, z=-472}
+[03:13:55] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=160, y=113, z=-475} gu{x=162, y=113, z=-472}
+[03:14:00] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/5845, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-53.50, y=171.03, z=283.50]
+[03:14:22] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/5918, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=105.96, y=115.44, z=-462.30] died: Drowned Hunter was slain by TioSkrollex using [Thunderfist]
+[03:14:31] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/4513, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=98.51, y=115.00, z=-465.47] died: Drowned Hunter was slain by TioSkrollex using [Thunderfist]
+[03:15:07] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/6018, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=82.44, y=115.05, z=-470.77] died: Drowned Hunter was slain by TioSkrollex using [Thunderfist]
+[03:16:07] [Server thread/ERROR]: Display entityNot a string
+[03:16:07] [Server thread/ERROR]: Display entityNot a string
+[03:16:11] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:17,cr_boots:1,cr_modifier:81,cr_rarity:2,cr_tier:2,display:{Lore:['{"text":"Rare Suffix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"25","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"2","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Boots ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','[{"text":"[Noxious Trail] ","color":"dark_green","bold":true,"italic":false},{"text":"You leave a poisonous","color":"#327824","bold":false,"italic":false}]','{"text":"trail that afflicts enemies with 2 s of","color":"#327824","bold":false,"italic":false}','{"text":"Wither III.","color":"#327824","bold":false,"italic":false}'],Name:'{"text":"Rune of Malady","color":"#04BF36","bold":true,"italic":false}'}}}
+[03:16:11] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:16:11] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:16:11] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:16:11] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:16:13] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:16:16] [Server thread/ERROR]: Display entityNot a string
+[03:16:16] [Server thread/ERROR]: Display entityNot a string
+[03:16:16] [Server thread/ERROR]: Display entityNot a string
+[03:16:21] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:17,cr_boots:1,cr_modifier:81,cr_rarity:2,cr_tier:2,display:{Lore:['{"text":"Rare Suffix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"25","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"2","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Boots ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','[{"text":"[Noxious Trail] ","color":"dark_green","bold":true,"italic":false},{"text":"You leave a poisonous","color":"#327824","bold":false,"italic":false}]','{"text":"trail that afflicts enemies with 2 s of","color":"#327824","bold":false,"italic":false}','{"text":"Wither III.","color":"#327824","bold":false,"italic":false}'],Name:'{"text":"Rune of Malady","color":"#04BF36","bold":true,"italic":false}'}}}
+[03:16:21] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:16:21] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:16:21] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:16:21] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:16:22] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:16:28] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:16:28] [Server thread/ERROR]: Display entityNot a string
+[03:16:28] [Server thread/ERROR]: Display entityNot a string
+[03:16:34] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:13,cr_boots:1,cr_enchant:194,cr_rarity:2,cr_tier:1,display:{Lore:['{"text":"Rare Prefix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"8","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"1","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Boots ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"Protection I","color":"#BEDCFA","bold":true,"italic":false}','{"text":"Depth Strider III","color":"#BEDCFA","bold":true,"italic":false}','{"text":"Unbreaking II","color":"#BEDCFA","bold":true,"italic":false}'],Name:'{"text":"Bluescale Rune","color":"#04bf36","bold":true,"italic":false}'}}}
+[03:16:34] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:16:34] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:16:34] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:16:34] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:16:34] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:16:41] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:16:41] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:16:47] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:16:47] [Server thread/ERROR]: Display entityNot a string
+[03:16:47] [Server thread/ERROR]: Display entityNot a string
+[03:17:14] [Server thread/ERROR]: Display entityNot a string
+[03:17:19] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air",tag:{CustomModelData:13,cr_boots:1,cr_enchant:194,cr_rarity:2,cr_tier:1,display:{Lore:['{"text":"Rare Prefix Rune","color":"dark_gray","bold":false,"italic":false}','{"text":" ","bold":false,"italic":false}','[{"text":"Crafting Cost:","color":"gray","bold":false,"italic":false},{"text":"c","font":"rc4:s","color":"white","bold":false,"italic":false},{"text":"8","color":"blue","bold":true,"italic":false}]','[{"text":"Rune Power:","color":"gray","bold":false,"italic":false},{"text":"b","font":"rc4:s","color":"white"},{"text":"1","color":"green","bold":true,"italic":false}]','{"text":" "}','[{"text":"Augments ","color":"gray","bold":false,"italic":false},{"text":"Boots ","color":"white","bold":true,"italic":false},{"text":"with:","color":"gray","bold":false,"italic":false}]','{"text":"Protection I","color":"#BEDCFA","bold":true,"italic":false}','{"text":"Depth Strider III","color":"#BEDCFA","bold":true,"italic":false}','{"text":"Unbreaking II","color":"#BEDCFA","bold":true,"italic":false}'],Name:'{"text":"Bluescale Rune","color":"#04bf36","bold":true,"italic":false}'}}}
+[03:17:19] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:17:19] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:17:19] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:17:19] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:17:19] [Server thread/WARN]: Unable to load item from: {id:"minecraft:air"}
+[03:17:20] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:17:20] [Server thread/WARN]: Unable to load item from: {Count:1b,id:"minecraft:air"}
+[03:17:37] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=68, y=162, z=-513} gu{x=68, y=161, z=-516}
+[03:17:37] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=68, y=162, z=-513} gu{x=68, y=161, z=-516}
+[03:17:38] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=69, y=162, z=-514} gu{x=68, y=161, z=-516}
+[03:18:18] [Server thread/INFO]: Named entity bwv['Prismarine Guardian'/6901, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=119.30, y=159.00, z=-487.98] died: Prismarine Guardian was blown up by Aquatic Creeper
+[03:18:51] [Server thread/INFO]: Named entity bwv['Prismarine Guardian'/6965, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=110.21, y=160.00, z=-496.48] died: Prismarine Guardian was impaled by TioSkrollex
+[03:19:19] [Server thread/INFO]: Named entity bvo['Aquatic Creeper'/6972, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=122.82, y=160.00, z=-493.68] died: Aquatic Creeper was slain by TioSkrollex using [Thunderfist]
+[03:19:42] [Server thread/INFO]: Named entity bwv['Prismarine Guardian'/6966, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=126.65, y=165.00, z=-478.30] died: Prismarine Guardian was impaled by TioSkrollex
+[03:19:43] [Server thread/INFO]: Named entity bwv['Prismarine Guardian'/6964, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=126.39, y=165.00, z=-478.30] died: Prismarine Guardian was impaled by TioSkrollex
+[03:19:45] [Server thread/INFO]: Named entity bvo['Aquatic Creeper'/6970, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=126.83, y=165.00, z=-478.41] died: Aquatic Creeper withered away whilst fighting TioSkrollex
+[03:19:45] [Server thread/INFO]: Named entity bvo['Aquatic Creeper'/6971, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=126.07, y=165.00, z=-478.61] died: Aquatic Creeper was impaled by TioSkrollex
+[03:19:51] [Server thread/INFO]: Named entity bvo['Aquatic Creeper'/7093, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=125.97, y=158.57, z=-487.06] died: Aquatic Creeper withered away whilst fighting TioSkrollex
+[03:20:06] [Server thread/INFO]: Named entity bvo['Aquatic Creeper'/7285, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=110.47, y=116.67, z=-462.33] died: Aquatic Creeper withered away whilst fighting TioSkrollex
