@@ -253,3 +253,44 @@
 [03:43:07] [Server thread/WARN]: UUID of added entity already exists: buy['Glow Item Frame'/11244, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-53.50, y=171.03, z=283.50]
 [03:43:14] [Server thread/INFO]: TioSkrollex lost connection: Disconnected
 [03:43:14] [Server thread/INFO]: TioSkrollex left the game
+[03:46:55] [Server thread/INFO]: TioSkrollex[/127.54.56.198:50567] logged in with entity id 11733 at (-107.38228434893665, 123.20000004768372, -516.1224963933325)
+[03:46:55] [Server thread/INFO]: TioSkrollex joined the game
+[03:47:10] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/11235, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-108.44, y=111.09, z=-534.05] died: Drowned Hunter withered away
+[03:47:13] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-110, y=110, z=-544} gu{x=-110, y=111, z=-544}
+[03:49:41] [Server thread/INFO]: Named entity bvq['Baby Guardian'/12045, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-93.77, y=119.80, z=-507.92] died: Baby Guardian withered away whilst fighting Danielcf37
+[03:50:18] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/12195, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-101.32, y=109.03, z=-535.19] died: Drowned Hunter was impaled by Danielcf37
+[03:50:48] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/12253, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-104.92, y=110.29, z=-542.71] died: Drowned Hunter was impaled by Danielcf37
+[03:50:52] [Server thread/INFO]: Named entity bvy['Guardian'/12256, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-113.37, y=114.71, z=-557.41] died: Guardian was slain by TioSkrollex using [Magmablade]
+[03:50:55] [Server thread/INFO]: Named entity bvq['Baby Guardian'/12241, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-111.37, y=112.53, z=-554.58] died: Baby Guardian withered away
+[03:50:56] [Server thread/INFO]: Named entity bvq['Baby Guardian'/12243, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-111.24, y=112.03, z=-557.60] died: Baby Guardian withered away
+[03:51:09] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-114, y=112, z=-550} gu{x=-114, y=111, z=-547}
+[03:51:09] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-114, y=112, z=-550} gu{x=-114, y=111, z=-547}
+[03:51:11] [Server thread/INFO]: Named entity bvy['Guardian'/12246, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-121.49, y=120.39, z=-558.61] died: Guardian was impaled by Danielcf37
+[03:51:12] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-103, y=113, z=-553} gu{x=-102, y=112, z=-553}
+[03:51:12] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-103, y=113, z=-553} gu{x=-102, y=112, z=-553}
+[03:51:22] [Server thread/INFO]: Named entity bvq['Baby Guardian'/12245, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-103.24, y=124.02, z=-559.56] died: Baby Guardian was killed by [Decorated Trident] trying to hurt Danielcf37
+[03:51:26] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/12315, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-104.16, y=114.91, z=-552.09] died: Drowned Hunter was impaled by Danielcf37
+[03:51:30] [Server thread/INFO]: Named entity bvq['Baby Guardian'/12141, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-105.63, y=114.96, z=-553.25] died: Baby Guardian withered away whilst fighting TioSkrollex
+[03:51:40] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-103, y=115, z=-550} gu{x=-103, y=114, z=-550}
+[03:51:41] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/12155, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-101.50, y=114.91, z=-555.35] died: Drowned Hunter was slain by TioSkrollex using [Magmablade]
+[03:51:43] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-94, y=117, z=-567} gu{x=-94, y=118, z=-567}
+[03:51:43] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-94, y=117, z=-567} gu{x=-94, y=118, z=-567}
+[03:51:43] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-94, y=117, z=-567} gu{x=-94, y=118, z=-567}
+[03:51:43] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-94, y=117, z=-567} gu{x=-94, y=118, z=-567}
+[03:51:44] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-94, y=118, z=-569} gu{x=-94, y=116, z=-569}
+[03:51:54] [Server thread/INFO]: Named entity bvq['Baby Guardian'/12398, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-83.41, y=106.02, z=-540.41] died: Baby Guardian withered away
+[03:51:58] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/12383, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-104.90, y=111.07, z=-533.38] died: Drowned Hunter was impaled by Danielcf37
+[03:52:15] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/12317, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-92.70, y=105.05, z=-556.70] died: Drowned Hunter was slain by TioSkrollex using [Magmablade]
+[03:52:17] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/12425, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-92.70, y=105.03, z=-556.70] died: Drowned Hunter was slain by TioSkrollex using [Magmablade]
+[03:52:29] [Server thread/INFO]: Named entity bvy['Guardian'/12390, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-68.83, y=108.36, z=-561.21] died: Guardian was impaled by Danielcf37
+[03:52:45] [Server thread/INFO]: Danielcf37 was impaled by Drowned Hunter
+[03:52:47] [Server thread/INFO]: Named entity bvq['Drowned Hunter'/12463, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-81.66, y=104.53, z=-558.10] died: Drowned Hunter was slain by TioSkrollex using [Magmablade]
+[03:53:00] [Server thread/INFO]: Named entity bvq['Baby Guardian'/12451, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-88.47, y=105.49, z=-556.35] died: Baby Guardian was slain by TioSkrollex using [Magmablade]
+[03:53:25] [Server thread/INFO]: Named entity bvy['Guardian'/12533, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-86.56, y=106.57, z=-544.84] died: Guardian was slain by TioSkrollex using [Magmablade]
+[03:53:34] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-69, y=103, z=-553} gu{x=-69, y=102, z=-553}
+[03:53:37] [Server thread/INFO]: Named entity bvy['Guardian'/12715, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-73.57, y=103.47, z=-548.69] died: Guardian withered away
+[03:53:45] [Server thread/INFO]: Named entity bvq['Baby Guardian'/12732, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-70.50, y=101.62, z=-546.79] died: Baby Guardian withered away
+[03:54:08] [Server thread/INFO]: Named entity bvy['Guardian'/12787, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-67.55, y=107.99, z=-564.37] died: Guardian was slain by TioSkrollex using [Magmablade]
+[03:54:31] [Server thread/INFO]: Named entity bvq['Baby Guardian'/12834, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-64.71, y=104.04, z=-560.84] died: Baby Guardian was slain by TioSkrollex using [Magmablade]
+[03:54:44] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-74, y=104, z=-565} gu{x=-73, y=107, z=-564}
+[03:54:52] [Server thread/INFO]: Named entity bvq['Baby Guardian'/12855, l='ServerLevel[§c§lRagecraft IV: §r§6Underworld §7- §eheliceo §7| §3Suso]', x=-74.83, y=104.06, z=-565.65] died: Baby Guardian withered away
